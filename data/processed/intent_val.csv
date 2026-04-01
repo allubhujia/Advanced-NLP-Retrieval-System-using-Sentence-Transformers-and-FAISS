@@ -1,0 +1,1655 @@
+query,intent
+is it possible to transfer money to my credit card,topping_up_by_card
+what should i do i topped off but the app reversed it,top_up_reverted
+i was charged 1 in a transaction,extra_charge_on_statement
+i have a top up that didn t go through why,top_up_failed
+i need my pin where is it,get_physical_card
+can you check why i wasn t able to top up,top_up_failed
+i don t recognize some of the transactions on my card i think someone must have gotten my card info and used it,compromised_card
+i have a contactless that s broken,contactless_not_working
+why hasn t my card arrived yet,card_arrival
+i have done a transfer within the country the day before yesterday but it s still not there yet can you please check what s going on with that the account number definitely is the right one i ve checked that several times already,transfer_not_received_by_recipient
+i see non received cash in my app,cash_withdrawal_not_recognised
+can you buy this one,general_complaint
+can i see my available money,verify_source_of_funds
+what currencies can i use to top up my account,transfer_into_account
+the app failed to verify my id,unable_to_verify_identity
+i have a duplicate payment on my card,transaction_charged_twice
+my account shows up as pending after i received cash from the atm earlier how can this be still pending i ve got the cash already,pending_cash_withdrawal
+every time i go they have no idea what i m asking about,general_complaint
+is there an age minimum,age_limit
+i would like to verify my source of funds,verify_source_of_funds
+my account is depleted can i transfer funds from another bank,transfer_into_account
+which card would i get visa or mastercard,visa_or_mastercard
+a false direct debit payment is showing in my app,direct_debit_payment_not_recognised
+i want to make an online purchase but i don t want to use my credit card can you tell me how a disposable virtual card works and where i can apply for one,get_disposable_virtual_card
+what is this extra fee,card_payment_fee_charged
+do you not have email that numbers going to cost a fair bit from the uk,general_complaint
+i have one of your cards already how do i link it,card_linking
+my new card has not been delivered to my home yet what is going on,card_arrival
+hi guys i buy a ton of your clothes i have lost the pully to pull down the zipper on my grey woolen top can you help,general_complaint
+when will the balance on my account change form a transfer,balance_not_updated_after_bank_transfer
+hi i ve booked on traveloka my booking number is fd 658 now i want to change my flight to monday jan 8 but traveloka can t do it could you help check if there s anyway i can change it,general_complaint
+my pin isn t working,pin_blocked
+hi there earlier today i tried to take money out of an atm machine and something wasn t working i didn t actually receive the money but i just checked and it says that the transaction is still pending can you tell me what s going on here am i still being charged for the withdrawal even though i didn t end up getting any money,pending_cash_withdrawal
+when will the money reach my account,transfer_timing
+what is the procedure for an expired card,card_about_to_expire
+i thought i was going to get a virtual card but i haven t received it yet how can we resolve this,getting_virtual_card
+network at dadar area is pathetic 4 g works worst than 2g,general_complaint
+who can purchase a disposable virtual card,get_disposable_virtual_card
+what currencies can i hold money in,fiat_currency_support
+there s an error with the rate that is charged,card_payment_wrong_exchange_rate
+i have been double charged,transaction_charged_twice
+i want to top up from my apple watch can i,apple_pay_or_google_pay
+can i see where my money came from,verify_source_of_funds
+why is my cash withdrawal pending,pending_cash_withdrawal
+just want to thank for ignoring me for three days xxxx,general_complaint
+why was my atm transaction cancelled,declined_cash_withdrawal
+is apple pay costly,apple_pay_or_google_pay
+i can t seem to be able to use my card,card_not_working
+in regards to my card payment the exchange rate is incorrect,card_payment_wrong_exchange_rate
+win 10 pro version 1709 os build 16299 15,general_complaint
+what places will accept my card for payment,card_acceptance
+i was overcharged at an atm while on vacation i needed cash so i had to use it but your charges are outregous and i wish i would have known beforehand,wrong_exchange_rate_for_cash_withdrawal
+is there a way i can get my atm card back from the machine,card_swallowed
+what do i do if there is a direct debit on my account that shouldn t be there,direct_debit_payment_not_recognised
+why do you charge fees on card payments,card_payment_fee_charged
+can i use my bank account to send me more money,transfer_into_account
+is my card lost i am still waiting for it to be delivered,card_arrival
+i need to exchange a currency can i do that here,exchange_via_app
+what caused my cash withdrawal to be declined,declined_cash_withdrawal
+where do i order a disposable virtual card,get_disposable_virtual_card
+i would appreciate that someone let me know when there is an extra charge for payments i was checking the app earlier and saying a charge on one of my payments that was additional that no one made me aware of before,card_payment_fee_charged
+why do i have a transaction showing up more than once,transaction_charged_twice
+all things considered i could do a lot worse than having be my celebrity look alike,general_complaint
+for god sake just delete my account i am sick of this,terminate_account
+thanks for the response this isn t the complete model no,general_complaint
+that actually makes a lot of sense redhead disease,general_complaint
+do you support top ups,top_up_reverted
+i submitted a cheque couple of days ago nothing happened to my account yet what could be the possible issue,balance_not_updated_after_cheque_or_cash_deposit
+i am seeing in the app some cash witdhrawals that i did not authorize,cash_withdrawal_not_recognised
+how do i get refills to my card when i m traveling,automatic_top_up
+i think someone stole my card because i can t find it,lost_or_stolen_card
+i sent a payment but now it s not showing up,reverted_card_payment?
+hi leanne it was 403 087 76 trysil wardrobe and it was the wednesbury store such a shame items can t be reserved,general_complaint
+my job was supposed to call me last week about my first schedule but they didn t so,general_complaint
+why is my purchase showing as pending,pending_card_payment
+when will my money be in my account,transfer_timing
+what do i do if i accidentally broke my card,card_not_working
+what is the charges for new card,contactless_not_working
+can i have a refund for one of your products,request_refund
+can you tell me if my top up has been cancelled,top_up_reverted
+i am still waiting for a transfer to show,pending_transfer
+what are the steps to verify identity,verify_my_identity
+is there a list of where i can use my card,card_acceptance
+when i went to get cash it was declined,declined_cash_withdrawal
+i cannot remember my passcode is there a way to retrieve it,passcode_forgotten
+i really didn t want to say that myself but since you mentioned it damn that kid can t read a mirand,general_complaint
+explain why my top up would be reverted,top_up_reverted
+what can i expect if i use bank transfer to top up my account,transfer_into_account
+i need a second card on this account for my daughter,getting_spare_card
+i am so angry right now i went to the atm and did not get the correct amount of money i chose to withdraw how could this happen i need my money and want to know how i can get it asap,wrong_amount_of_cash_received
+my card payment wasn t accepted,declined_card_payment
+people are always giving away kudos to him kudos to her kudos to them i don t like this word and how frequentl,general_complaint
+why hasn t my transaction completed,transfer_not_received_by_recipient
+are extra charges added for sending out additional cards,getting_spare_card
+is there a way for you to find out why my account was deducted from a seller when i didn t approve of it,direct_debit_payment_not_recognised
+got a question can y all help,general_complaint
+why is there a pending hold on one pound on my statement,extra_charge_on_statement
+why isn t my balance reflecting a transfer i did,balance_not_updated_after_bank_transfer
+cole is a class act even though he no longer plays for the phillies he still donates huge to t,general_complaint
+how do i activate a card,activate_my_card
+when i tried to access my cash i wasn t allowed,declined_cash_withdrawal
+can i get a card even if i live outside the uk,country_support
+where can i reset the passcode,passcode_forgotten
+why do you guys need to verify my identity,why_verify_identity
+what is the reason why the transfer shows as pending,pending_transfer
+what should i do if i lost my card,lost_or_stolen_card
+how do i set a new pin,change_pin
+what is this withdrawal as i do not remember making it,cash_withdrawal_not_recognised
+is there anyone that can answer a question for me,general_complaint
+how do i setup my apple pay,apple_pay_or_google_pay
+is the verification number on the top up card,verify_top_up
+i tried to buy something online but my funds were transferred back to my account what is happening,reverted_card_payment?
+why do you have the identity check,why_verify_identity
+it is not the wait it is the mixed message about lithium batteries and fate checked bags,general_complaint
+i can t get my card out of the atm,card_swallowed
+there is an incoming payment into my account but it is deactivated will they still be processed,fiat_currency_support
+i need to renew a card that s about to expire,card_about_to_expire
+where do my fund come from,verify_source_of_funds
+do you have an auto top function and how do i use it if so,automatic_top_up
+please i need your help as to whether or not you have money for a large refunded purchase i made i requested it some time ago from the seller but nothing is showing up,Refund_not_showing_up
+where is my unknown payment from,card_payment_not_recognised
+can i setup top ups in advance,automatic_top_up
+where is my recent refund in the my statement,Refund_not_showing_up
+what the fuck,general_complaint
+how long does it take for cash withdrawals to hit my account,pending_cash_withdrawal
+i want to top up my account by a bank transfer but will i be charged,top_up_by_bank_transfer_charge
+is topping up free,top_up_by_card_charge
+thanks i ll have to stick with my original plans and fly monday morning thanks anyways,general_complaint
+my virtual card isn t working what do i do,virtual_card_not_working
+do top up limits exist,top_up_limits
+how can a payment be declined,declined_card_payment
+how can i transfer money to a beneficiary,beneficiary_not_allowed
+will the system automatically update once there is no more money left,automatic_top_up
+why is my cash request and the amount i received different,wrong_amount_of_cash_received
+i ve already tried that and it s not working unfortunately,general_complaint
+is gbp a supported currency,receiving_money
+24 hours nothing back on my support ticket 2235411961 over a week without account activation little help,general_complaint
+the transfer keeps failing i tried to transfer some money to friends this morning but it keeps getting rejected for some reason would you please check the issue,failed_transfer
+how can the recipient see my money transaction,transfer_not_received_by_recipient
+hopefully this goes somewhere,general_complaint
+where is my transfer from country,balance_not_updated_after_bank_transfer
+how can i prove i am me,verify_my_identity
+i was charged a fee when making this transfer and i don t think i should have been,transfer_fee_charged
+good looking dog i miss mine he was a great p,general_complaint
+my app shows a money withdrawal that i did not do,cash_withdrawal_not_recognised
+hi can i take a payment over the phone,general_complaint
+i haven t received my virtual card yet,getting_virtual_card
+can you explain why my google pay top isn t working,apple_pay_or_google_pay
+what information am i going to have to have in order to do a transfer with my card,topping_up_by_card
+your customer service has been horrible during the recall process i will never purchase a honda again,general_complaint
+earlier today i took money out the atm after checking the app the amount is so much higher than the amount i received,wrong_amount_of_cash_received
+help the app has an atm withdrawl that i didn t make,cash_withdrawal_not_recognised
+i could not get my card to work at a shop,declined_card_payment
+can i add money automatically to my account while traveling,automatic_top_up
+i mistook my pin and now i am locked can you unlock me,pin_blocked
+it might seem as if your work is never done but if you contin more for cancer,general_complaint
+when will the 1 transaction be credited to me,extra_charge_on_statement
+how much do you charge to accept transfers,top_up_by_bank_transfer_charge
+i was charged multiple times for one transaction,transaction_charged_twice
+is it possible to get a physical card,order_physical_card
+got that shouldn t have trusted that fart look going on there bud,general_complaint
+my card doesn t seem to work anymore,card_not_working
+are you able to delete my account,terminate_account
+can third party fees affect a transfer,top_up_by_bank_transfer_charge
+mansplaining to the nth degree,general_complaint
+does this app exchange currencies,exchange_via_app
+this cowboys game is killing me omg,general_complaint
+i factory reset because of this i there a way to retract this,general_complaint
+the whole market is unusual activity this week just say all stocks in spy,general_complaint
+my balance didn t change after i transferred some money,balance_not_updated_after_bank_transfer
+i think someone else is using my card there are transactions i didn t make,compromised_card
+i just got 20 when i tried to get 100,wrong_amount_of_cash_received
+is this legit seats sliding on white rails doesn t seem safe 2014 honda odyssey,general_complaint
+it s not an engine problem it s something physical,general_complaint
+the rate of exchange isn t right for my cash withdrawal,wrong_exchange_rate_for_cash_withdrawal
+what is the reason for the fee charge on my transfer,transfer_fee_charged
+after bombarding me with reminder emails i ve just turned up for my flu jab amp they ve run out rubbish service,general_complaint
+how do i exchange usd to gbp,exchange_via_app
+your exchange rates come from where,exchange_rate
+can t stream sho anytime on apple tv and ipad what gives,general_complaint
+can i have a tangible form of my virtual card,order_physical_card
+account 14272658163 south b we re off what s going on,general_complaint
+someone has my card number freeze my account,compromised_card
+i purchased something and already received it why hasn t the money taken out,reverted_card_payment?
+card payment didn t go through,declined_card_payment
+i should have a refund in my statement but i can t see it,Refund_not_showing_up
+i don t remember my passcode,passcode_forgotten
+transfer has failed,failed_transfer
+easy to feel good about a class where your professor doesn t post grades until they submit your final grades and it,general_complaint
+what is the maximum top up,top_up_limits
+to many charges on my card how do i go about fixing that,transaction_charged_twice
+i sent a payment to the wrong account number can that transaction be reversed i am worried about accidentally giving my money away,cancel_transfer
+there is a payment in my app that i did not make i have not used that card all day please reimburse my money,direct_debit_payment_not_recognised
+why hasn t my top up been completed,pending_top_up
+is there a charge for a foreign currency exchange,exchange_charge
+i couldn t get cash at the atm,declined_cash_withdrawal
+i tried to purchase airline tickets online this morning and my card information isn t working is there something going on with my account,card_not_working
+i would like to reactivate my card,card_linking
+i need to verify a payment to my new landlord i transferred the first rent payment a few days ago while it shows on my side the landlord is saying he hasn t received it yet can you verify that it has processed,transfer_not_received_by_recipient
+this about sums up my feelings on this mascot travesty,general_complaint
+why did my my transfer get declined,declined_transfer
+how many different currencies can i hold money in,fiat_currency_support
+i need help right now i realize i sent my payment to the wrong account number after making a typo please cancel the transfer now since i can t do it from the app,cancel_transfer
+is there a fee to top up a us card using a debit or credit card,top_up_by_card_charge
+is it possible to get another card,getting_spare_card
+will i be able to get a disposable virtual card as well,get_disposable_virtual_card
+is there a problem with the payment that i see is still pending,pending_card_payment
+two occasions now i ve bought food to take home for the family and find items i ve paid for not be in the bags,general_complaint
+how much to get my card in 2 days,card_delivery_estimate
+don t be but i know it is hard i feel you just remember the awesome family ya,general_complaint
+i tried to get cash in the atm but it was not approved,declined_cash_withdrawal
+i went to top up and it is no longer there was it sent back,top_up_reverted
+why isn t my id being verified,unable_to_verify_identity
+how istaiwan,general_complaint
+i just received my bpact12h air conditioner package contains three parts that were broken when i opened can you supply new ones pic twitter com rteorzypdb,general_complaint
+then it is not helpful to get anything from you so i practically got scammed by airasia thanks air asia,general_complaint
+since i need to exchange currencies frequently would you be able to offer me a discount,exchange_charge
+the payment on my card shows as pending,pending_card_payment
+i want to get a visa card,visa_or_mastercard
+can i top up my card with other cards,supported_cards_and_currencies
+your exchange rates are coming from where,exchange_rate
+can i change my currency from usd to eur,exchange_via_app
+my wallet was taken and i see that someone is using my card please help me,cash_withdrawal_not_recognised
+why was i charged extra when paying with card,card_payment_fee_charged
+my hp 520 1030a wifi wont connect to any network for some reason even if the network has no password,general_complaint
+i want to know where the funds come from,verify_source_of_funds
+the amount of cash i received was not the full amount,wrong_amount_of_cash_received
+why was i declined when i tried to get my money,declined_cash_withdrawal
+how long does it take for the money to show up in my account,transfer_timing
+is there a charge for transfers,top_up_by_bank_transfer_charge
+it s infuriating how many people don t care or are happy that the government shut down i need to get off twitter,general_complaint
+what is the exchange looking like,exchange_rate
+i d like to discuss an order i placed quite a long time ago i have yet to receive it and am growing upset i want a refund as i now refuse to pay for the product,request_refund
+how do i edit the personal details on my account,edit_personal_details
+paying in card resulted in a fee,card_payment_fee_charged
+yay paid for extra for 2 day shipping 4 days later they are saying it ll be here on the 28th,general_complaint
+how to i close my account,terminate_account
+what is the process to get a new card when your old one expires,card_about_to_expire
+i ve got a repeated tranasaction on my card,transaction_charged_twice
+i ve been waiting for over an hour for my layaway to be found in the back what s going on,general_complaint
+as director of customer experience at bt i thought you should know about the service i have received,general_complaint
+will be streaming as it goes,general_complaint
+no and until now still can not connect,general_complaint
+are there fees for top ups,top_up_by_card_charge
+after i used my card i saw i was charged a fee for using it,card_payment_fee_charged
+,general_complaint
+my exchange rate isn t correct,card_payment_wrong_exchange_rate
+i think sallie mae makes their website as slow and shitty as possible so that it pisses you off more,general_complaint
+what card types can i choose from,visa_or_mastercard
+i have a cash withdrawal that says it s pending why,pending_cash_withdrawal
+the disposable cards what are they for,get_disposable_virtual_card
+i completed a money transaction but the recipient hasn t received it,transfer_not_received_by_recipient
+how do i get a disposable virtual card as well,get_disposable_virtual_card
+i should not have been charged a fee for cash withdrawal,cash_withdrawal_charge
+need help with google pay top up,apple_pay_or_google_pay
+can you tell me where my readily available cash has come from,verify_source_of_funds
+what are weekend rates for getting cash,wrong_exchange_rate_for_cash_withdrawal
+there is a direct debit that i didn t set up what should i do,direct_debit_payment_not_recognised
+where is my cash deposit,balance_not_updated_after_cheque_or_cash_deposit
+how much does a card cost and why do you charge me,order_physical_card
+what do i do if i think someone has used my card without permission i can see a few transactions i don t recognize,compromised_card
+a receiver let me know that they didn t receive the full transfer i completed and that it was actually a bit less than what i sent at this point i have to make another transfer to make up for the amount missing can you please follow up with what s going on here,transfer_fee_charged
+i would like to cancel a transfer is this possible,cancel_transfer
+i made a card payment but it has been declined,declined_card_payment
+can t wait to see what tattoo grant gets this time maybe a koala tramp stamp,general_complaint
+i do not understand why my pass code is not working,passcode_forgotten
+i put the wrong pin too many times and now it is blocked can you help me unblock it,pin_blocked
+yes and you can barley hear the music,general_complaint
+how often can i top up,top_up_limits
+i tried pulling out money at the atm and it gave me an incorrect amount back,wrong_amount_of_cash_received
+how many atms will take this card,atm_support
+can i use my new card,activate_my_card
+i thought transfers were free of charge i bought something abroad and got charged a ridiculous fee how do i get this problem fixed,transfer_fee_charged
+my product hasn t arrived even though i ordered it a while ago i want a refund,request_refund
+do you offer cards for those in other countries,country_support
+do i get a choice between visa and mastercard,visa_or_mastercard
+i m trying to figure out the current exchange rate,exchange_rate
+someone should pick me up n we can go get mcdonalds,general_complaint
+the game isn t over bud do you not understand the sport,general_complaint
+i made a transfer for my rent payment about 2 days ago but my landlord hasn t received it yet it shows as done on my side and i ve double check all account numbers and they are correct can you verify that the transaction was actually made,transfer_not_received_by_recipient
+it s too late for that thought i could use federal refund towards state but guess not not pleased,general_complaint
+how many days worth of fitness data can my fitbit charge 2 hold if i am not syncing it continuously with the app,general_complaint
+i d like to open an account for my children how can i do that,age_limit
+i want to transfer from accounts in order to top up what are the steps necessary,transfer_into_account
+my account is locked because i used the wrong pin too many times please help p,pin_blocked
+your jewelry is beautiful so i can t help but to support it,general_complaint
+will you accept my salary if it s in another currency,receiving_money
+i want to do a swift transfer,top_up_by_bank_transfer_charge
+why are all my card payments being declined,declined_card_payment
+why did my transfer not go through,failed_transfer
+i have a problem with 85 of my packages delivered by amp it is so frustrating,general_complaint
+my phone was stolen what should i do first,lost_or_stolen_phone
+i cant bc of security reasons i dont think im ever using your company again,general_complaint
+i can t get the card itself to work,card_not_working
+what even is the point of the post to shame people who are fans of lotl under the guide of like passi,general_complaint
+i noticed that there s a payment on my card that s pending,pending_card_payment
+are there charges for topping up us cards,top_up_by_card_charge
+you re going to love what you re eating with this crispy po boy with slaw,general_complaint
+what happens if my card payment is cancelled,reverted_card_payment?
+can i add funds to the card directly from my bank account,transfer_into_account
+why am i unable to withdrawal cash,declined_cash_withdrawal
+will there be a fee to receive a physical card,order_physical_card
+cannabis news integrity tribune news from cia hot off the press,general_complaint
+if i request that my funds be held what currencies do you use,fiat_currency_support
+get them a dachshund named richard place in box sfw and still a dick in a box,general_complaint
+when will you be taking orders for disposable virtual cards,get_disposable_virtual_card
+my currencies needed to be exchanged often and i was wondering if there were any discounts available for this,exchange_charge
+i left my phone somewhere and can t use the app,lost_or_stolen_phone
+is topping up with apple pay possible,apple_pay_or_google_pay
+17 threes not once but twice this week,general_complaint
+i got less than what i asked for in the atm why,wrong_amount_of_cash_received
+the exchange rate you are using is bad this can t be the official interbank exchange rate,card_payment_wrong_exchange_rate
+does it cost extra to exchange currencies,exchange_charge
+with my new card how may i activate it,activate_my_card
+i ve been playing the sims practically nonstop for ten hours and life is going swell for them a thread,general_complaint
+how can i fill up my gas tank using a check,top_up_by_cash_or_cheque
+can you tell me why my top up was reverted,top_up_reverted
+is there a limit on disposable cards,disposable_card_limits
+why is a payment showing up on my card as pending,pending_card_payment
+can you please explain to me why there is an extra 1 fee in my statement,extra_charge_on_statement
+do i need to add my salary,receiving_money
+why didn t the atm give me all my money,wrong_amount_of_cash_received
+i m booked july 31st through august 3 for that racist bastard tommy hilfiger i need a place to stay in charlotte what s up north carolina,general_complaint
+what documents are required for proof of identity,verify_my_identity
+no chill,general_complaint
+i can t freeze my account as i need the card as i am traveling how do i change my pin,change_pin
+the cash withdrawal exchange rate is not correct,wrong_exchange_rate_for_cash_withdrawal
+not exactly thrilled with this inadequate offer made me for my claim it s like i have to pay bill and they got the tip,general_complaint
+how do i deposit cash,top_up_by_cash_or_cheque
+why isn t my top up going through,pending_top_up
+activating my card,activate_my_card
+so glad it turned out okay and she is safe in her loving home with no injuries that is one of the scariest things,general_complaint
+why is the transaction not posting,pending_transfer
+can i set up an auto top up,automatic_top_up
+on my statement there is a payment that i don t recognise,card_payment_not_recognised
+i want a refund for my item,request_refund
+where can i find my pin,get_physical_card
+the exchange rate for foreign atm currency is wrong,wrong_exchange_rate_for_cash_withdrawal
+do i get to choose between visa and mastercard,visa_or_mastercard
+where is the transfer that i did,balance_not_updated_after_bank_transfer
+what do i need to do to cancel a transaction,cancel_transfer
+my card is about to expire what do i need to do,card_about_to_expire
+i got a transfer fail message but no explanation of why what happened,failed_transfer
+help me figure out how to link the new card,card_linking
+what is delivery speed to the united states,card_delivery_estimate
+should my cash withdrawal still be pending,pending_cash_withdrawal
+i would like to get help from someone in your customer service department with assisting me with activating my card,activate_my_card
+so i bought some shoes and i new they were used and dirty but in the picture they guy had uploaded the shoes looked fine and when i got them they look nothing like the picture,general_complaint
+at coachpatjohnson,general_complaint
+nosey the elephant gets her happy ending freedom,general_complaint
+we are super proud of ram tynee ridgely for her artwork at the reginald f lewis museum,general_complaint
+can i top up any amount,top_up_limits
+just ruined my kids christmas by canceling my order so long ping pong table,general_complaint
+i would like to use the bank transfer feature but i can t find it can you please give me the details,transfer_into_account
+hae i already completed my 3d secure authentication when i tried the crypto top up but it s still not working for me i also don t understand what happened to the money in my account,top_up_reverted
+i would like to get a visa card,visa_or_mastercard
+my cash withdrawal was partly declined,wrong_amount_of_cash_received
+i could not use my card in a store,declined_card_payment
+thanks for resolving my complaint,general_complaint
+why have i not yet received my virtual card,getting_virtual_card
+was fun,general_complaint
+can i top up with apple pay,apple_pay_or_google_pay
+my identity is unable to be verified,unable_to_verify_identity
+i need to close my account as soon as possible,terminate_account
+i can t get the top up to work what s going on here,top_up_failed
+looks like my top up has been cancelled,top_up_failed
+there is a mysterious debit transaction on my statement,direct_debit_payment_not_recognised
+why would you cancel my transfer,declined_transfer
+i need to get my card quickly,card_delivery_estimate
+my card is due to expire soon,card_about_to_expire
+why is checking my identity important,why_verify_identity
+why would i need a disposable card,get_disposable_virtual_card
+why am i not seeing the check i deposited this morning in my account,balance_not_updated_after_cheque_or_cash_deposit
+i would suggest some basic communication with your passengers would be a good start,general_complaint
+is i wish my mom could get the gift of a new smile this year h,general_complaint
+how many transactions can be made with a disposable card,disposable_card_limits
+i will need a new card because mine is almost expired how fast do i get a replacement and what is the cost,card_about_to_expire
+one of these is a hot wing and one is supposed to be a piece of original recipe shocking one bites worth,general_complaint
+i no longer want this can i cancel my purchase,request_refund
+how long before a bank transfer shows up in the account,balance_not_updated_after_bank_transfer
+show me how to change my pin,change_pin
+one is a legend and the other just a stupid slithery little sneaky sneeeek,general_complaint
+are you ever bringing back my delicious pumpkin cheesecake shake,general_complaint
+there was a direct debit transaction i have don t think should be there,direct_debit_payment_not_recognised
+where can i find the auto top up option,automatic_top_up
+why is my top up still outstanding,pending_top_up
+do you offer disposable virtual cards too,get_disposable_virtual_card
+i haven t received my virtual card,getting_virtual_card
+why on earth is the exchange rate so bad can i get a rate closer to the actual interbank rate,card_payment_wrong_exchange_rate
+still no progress being made is this your customer satisfaction policy,general_complaint
+,general_complaint
+why did i get a fee,cash_withdrawal_charge
+breaking is an idiot,general_complaint
+can someone please help assist me by explaining to me why my pass code is not working,passcode_forgotten
+could you please activate my card,activate_my_card
+how do i delete my account,terminate_account
+don t think i m ungrateful at the offer of free hbo cinemax for a month but i shouldn t have to cancel else be charged,general_complaint
+can you help me with a weird charge it s a pound charge that never goes away from the statement view on the app i m using it s not described as anything but pending and that status has never changed during the last two days,extra_charge_on_statement
+morning do you have service issues in da17 5db post code area,general_complaint
+when will these tartan trouser be in the uk i need them,general_complaint
+hi i made a transfer from france two days ago and thought it would be here by now can you give me an update please,balance_not_updated_after_bank_transfer
+can i reset my pin,change_pin
+how do i get to the virtual cards,getting_virtual_card
+i made a transfer and was charged extra why,transfer_fee_charged
+is it possible to have a second card,getting_spare_card
+love my bread machine but the paddles won t stay on in the basket anymore amp the kneading is non existent how can i fix it,general_complaint
+wow,general_complaint
+please explain why my top up didn t go through,top_up_failed
+hi i have requested many times for a replacement card to be sent and still not received anything,general_complaint
+what steps must i follow to get a visa credit card,visa_or_mastercard
+i shouldn t have been charged but i see a fee why,card_payment_fee_charged
+what age do my kids need to be to use your service,age_limit
+why is my balance not updated,balance_not_updated_after_bank_transfer
+should be happy in the morning,general_complaint
+i do not know why i was charged for the 1 transaction,extra_charge_on_statement
+can i reactivate my pin,pin_blocked
+since we all talking about our ideal man how about someone 5 8 average skinny with a cute smile,general_complaint
+waiting for results so excited for it,general_complaint
+need to know places i can withdraw money,atm_support
+how can i pay for top ups,supported_cards_and_currencies
+i don t live in the uk can i still get a card,country_support
+eden prairie it wasn t busy so there really wasn t an excuse to be dirty amp not being able to find a clean table,general_complaint
+like 90k people hate him now lol,general_complaint
+dear please bring back loaded potato cakes i have been craving them since 2009,general_complaint
+changing my pin,change_pin
+heart rate monitor on my samsung watch is terribly inn accurate,general_complaint
+if you can dm us a link to the listing we ll check this out thanks,general_complaint
+which atm s can i use to make a withdrawal,atm_support
+nw hwy in farmington hills mi is it a coincidence that my credit card was charged for an additional 103 dollars i think not,general_complaint
+how do i get my money back for a duplicated charge,transaction_charged_twice
+how many nebraska shirts do you think you will sell with this graphic,general_complaint
+there was a canceled payment for my card,reverted_card_payment?
+i added money to the card but the transaction didn t go through,pending_top_up
+i am not supposed to be charged a cash withdrawal fee but i was,cash_withdrawal_charge
+i was recently charged for withdrawing money from my bank atm how can that be possible when i haven t been charged for using it before,cash_withdrawal_charge
+i ve just made a money transfer to the wrong account i need to stop the money from being moved as it may be going to someone i don t know please can you help,cancel_transfer
+i have seen it at the bars tab thanks for the guide,general_complaint
+how can i request cash back the atm just gave me the wrong amount that i ve been charged though,wrong_amount_of_cash_received
+the atm at metro bank on high st kensington didn t return my card and the bank is now closed how do i get back a card swallowed by an atm,card_swallowed
+how can i change my address,edit_personal_details
+does it cost to exchange currencies,exchange_charge
+how many disposable cards can i have at one time,disposable_card_limits
+do you know why my card payment was reverted,reverted_card_payment?
+i was supposed to get a refund but i do not see it on my statement when is it going to be updated,Refund_not_showing_up
+why is my exchange rate wrong,card_payment_wrong_exchange_rate
+while abroad i got cash and the exchange rate applied is wrong,wrong_exchange_rate_for_cash_withdrawal
+how and where can i find the identity checks,verify_my_identity
+hp envy 4500 help please,general_complaint
+i need to move money from one of my other accounts to this one,transfer_into_account
+no phone service from in king s lynn as somebody has farted in downham market,general_complaint
+when i made a cash transfer abroad the wrong exchange rate was applied,wrong_exchange_rate_for_cash_withdrawal
+how many physical cards am i allowed to have,getting_spare_card
+i got a declining message during a transfer please tell me why,declined_transfer
+the amount of cash i received was incorrect,wrong_amount_of_cash_received
+why has my account balance not changed after depositing a cheque,balance_not_updated_after_cheque_or_cash_deposit
+where was this,general_complaint
+how long do eu transfers actually take i recently bought something online a few days ago sent the money immediately online but the seller says it s still not there yet,pending_transfer
+why didn t my transfer get to the recipient,transfer_not_received_by_recipient
+what happens if i deposit a cheque accidentally,balance_not_updated_after_cheque_or_cash_deposit
+i tried to use the atm with foreign currency the conversion rate applied was wrong,wrong_exchange_rate_for_cash_withdrawal
+go badgers,general_complaint
+is there any way i get a disposable virtual card as well,get_disposable_virtual_card
+how long until my card is delivered,card_delivery_estimate
+change of location need to change details,edit_personal_details
+my money is gone i had topped up recently and saw it was there and went through but now it s disappeared what s going on,top_up_reverted
+my bag was stolen from me yesterday so i can t use any apps or anything i need some help,lost_or_stolen_phone
+can this be used to receive my salary,receiving_money
+can you explain your refund policy please,request_refund
+what is your shipping policies for cards,card_delivery_estimate
+when you re trying to figure out how to work the chemistry problems on the study guide and realize there s no way t,general_complaint
+who do i call to cancel a transfer,cancel_transfer
+i received my american express in apple pay why is top up not working,apple_pay_or_google_pay
+i honestly would believe anything people are too much sometimes,general_complaint
+after making a payment with my card it doesn t seem to have worked it s just showing to be pending when will this actually be going through,pending_card_payment
+what s taking my top up so long,pending_top_up
+what was the issue with my topping up,top_up_failed
+payment i did not make,card_payment_not_recognised
+i got this stupid fee after taking cash out why,cash_withdrawal_charge
+i thought i would have received my new card at this point,card_arrival
+i cant find my card it s gone,lost_or_stolen_card
+my card information seems to have been stolen i don t know where these transactions came from and i ve never even been to the city where they were made i need my card blocked asap so this person can t keep using my card,compromised_card
+i need to top up but i have to use an international card is there a cost for that,top_up_by_card_charge
+wow i just entered for a chance to win veddha professional 6 gpu miner case aluminum stac by veddha,general_complaint
+i wear a double twin queen california king waterbed,general_complaint
+why is it taking so long to update my balance transfer,balance_not_updated_after_bank_transfer
+explain the extra fee on my card when paying,card_payment_fee_charged
+can google pay be used for top up please help,apple_pay_or_google_pay
+when does the rate get determined,exchange_rate
+how are exchange rates determined,exchange_rate
+you re too kind dear,general_complaint
+when will my balance reflect a deposit,balance_not_updated_after_cheque_or_cash_deposit
+how do i know where the funds come from,verify_source_of_funds
+how long do bank transfers take to clear,balance_not_updated_after_bank_transfer
+do you charge extra for duplicate cards,getting_spare_card
+i an not sure but it looks as if a card payment i made was cancelled,reverted_card_payment?
+how can i trade currencies with this app,exchange_via_app
+will i be charged for topping up,top_up_by_card_charge
+someone is using my account,compromised_card
+i bought something and want the money refunded can i get some help with that,request_refund
+how do i set up my apple pay watch to connect to my account,apple_pay_or_google_pay
+do you send more than one card,getting_spare_card
+just posted a photo,general_complaint
+i transferred some money to my mom 2 days ago and she has not received it i double checked the information and it looks right can you help me,transfer_not_received_by_recipient
+,general_complaint
+how long does an item i bought show as pending,pending_card_payment
+which merchants accept this card,card_acceptance
+how can i tell if there will be a fee added to my payment or not,card_payment_fee_charged
+i need to change details about my personal account,edit_personal_details
+how do i exchange currencies using the app,exchange_via_app
+how long does a transfer to another country normally take i check over and over again and see that my transfer is still pending it s 2018 nothing should take this long i have confirmed my account information so there is no error what is the hold up,pending_transfer
+my currency rate is inaccurate,card_payment_wrong_exchange_rate
+do you offer services for children to have money saving experience,age_limit
+how do i change to aud from gbp,exchange_via_app
+you re not big you re not clever it s late and you re showing off,general_complaint
+i made a transaction this morning and would like to revert it,cancel_transfer
+i am upset with your service please delete my account,terminate_account
+i ve just moved and i need to change my details,edit_personal_details
+their,general_complaint
+i tried updating my balance by cheque yesterday but it doesn t seem to be working shouldn t that be faster please check my account something has gone wrong there,balance_not_updated_after_cheque_or_cash_deposit
+could i open an account for children,age_limit
+thank u lol,general_complaint
+i left my card at a restaurant and now its missing,lost_or_stolen_card
+it appears that i am being double charged for some items that i have purchased this past week please review and correct,transaction_charged_twice
+where s my card pin,get_physical_card
+what was the extra charge for withdrawing money,cash_withdrawal_charge
+why is your exchange rate so bad,card_payment_wrong_exchange_rate
+i need to know if everything is okay here after making a transfer from a uk account it doesn t show up how long does this normally take to process,balance_not_updated_after_bank_transfer
+monday beach vibes with my available online or,general_complaint
+what s the time frame normally for a uk account transfer i just made one and it s not showing up anywhere i want to be sure that everything is good,balance_not_updated_after_bank_transfer
+please tell me how to get a card if i reside in the us,country_support
+just received my replacement card what steps do i need to take to activate it,activate_my_card
+why is there a fee for a payment on my card,card_payment_fee_charged
+i would like open a second card for my daughter how can you assist me,getting_spare_card
+when can i expect my refund,Refund_not_showing_up
+send me my card now asap,card_delivery_estimate
+it s been two weeks why has the transaction for 1 00 not been reversed,extra_charge_on_statement
+i have a pending cash withdrawal,pending_cash_withdrawal
+why does my top up get cancelled,top_up_reverted
+i am sick of this damn company and want to close out my account,terminate_account
+what happens if the atm doesn t give the right amount of money,wrong_amount_of_cash_received
+oh really,general_complaint
+i want to change the wrong exchange rate,card_payment_wrong_exchange_rate
+why do you need so much information about my identity,why_verify_identity
+how do i unblock my pin,pin_blocked
+why do i have to verify the top up,verify_top_up
+how can i dispute a direct debit transaction,direct_debit_payment_not_recognised
+can i verify a top up,verify_top_up
+if i exchange currencies frequently is there a discount,exchange_charge
+why can t i withdraw funds from my account,declined_cash_withdrawal
+i am not in the uk can i get a card,country_support
+what is a disposable virtual card,get_disposable_virtual_card
+people are using my debit card help,direct_debit_payment_not_recognised
+how can i investigate a missing refund,Refund_not_showing_up
+how can i reset my passcode,passcode_forgotten
+my daughter needs to open account,age_limit
+waited all year to get a mcrib and the one i got was dry and with hardly any sauce condiments on it pretty disappointed,general_complaint
+what do i need to do to transfer money into my account,transfer_into_account
+do any of your machines provide cash from my home country i don t have any money on me and i m on holiday so i m concerned also will i be charged anything to do this,wrong_exchange_rate_for_cash_withdrawal
+where do i go for a refund,request_refund
+how long will delivery to the us take,card_delivery_estimate
+how delusional do you have to be to even a little seriously say the bengals have any hope in the next 2 3 or even,general_complaint
+my top up is giving me problems what is wrong with it,top_up_failed
+my payment has been declined i thought this issue was fixed,declined_card_payment
+i accidentally put in the wrong pin too many times and now i need to unblock it can you assist with this,pin_blocked
+i am not seeing recent cash withdrawal on my account,pending_cash_withdrawal
+i transferred money yesterday but it still isn t available,pending_transfer
+why do i need to verify the top up,verify_top_up
+hi something is going on with the app i see some payments i didn t make,card_payment_not_recognised
+so what items actually come with extra fees,card_payment_fee_charged
+i am having some difficulty verifying my id,unable_to_verify_identity
+i tried to top up why was it denied,top_up_failed
+the happiest of birthdays to you sir,general_complaint
+which countries are represented,country_support
+how does your app transfer the money,transfer_into_account
+thank you so much for making a box that shreds apart even when carried by both handles pic twitter com vs6tpjdzsh,general_complaint
+need old school tommy tops and jumpers where can you get them from these days,general_complaint
+how long is it going to take for my funds to show in my account,transfer_timing
+why isnt my account allowing transfers,beneficiary_not_allowed
+i got my new card how do i activate it,activate_my_card
+i want to inactivate my account,terminate_account
+which forms of currency are accepted,supported_cards_and_currencies
+where can i locate my pin at,get_physical_card
+your gate agent at h16 for ord den tonight was awful no compassion lots of us running b c your flight late not our fault,general_complaint
+when my card expires what is the cost of a replacement and how fast,card_about_to_expire
+one person unfollowed me automatically checked by,general_complaint
+i cannot get virtual card to work,virtual_card_not_working
+where can i get money from my card,atm_support
+i want to get few more physical cards,getting_spare_card
+can i top up using a cheque,top_up_by_cash_or_cheque
+how can i top up my card with another card,supported_cards_and_currencies
+how do i change my aud into gbp,exchange_via_app
+how is the current exchange rate,exchange_rate
+can i get a card in the eu,country_support
+what do i need to have with me to activate card,activate_my_card
+i would like my money back for an item i purchased,request_refund
+r u sure,general_complaint
+my card payment has been stuck on pending what is the problem it should have gone through by now,pending_card_payment
+can apple pay handle top up exchanges,apple_pay_or_google_pay
+why am i having trouble verifying my id,unable_to_verify_identity
+do you offer account services for children and teens,age_limit
+is it ok for a friend to send me money,receiving_money
+thanks for ignoring all my tweets,general_complaint
+please could you tell the email address to contact h amp m for any references,general_complaint
+why is top up pending,pending_top_up
+i can t find the card pin,get_physical_card
+i have not seen any changes in my account balance s after making a transfer,pending_transfer
+i would like to know the countries you are offer services in,country_support
+a few hours ago i made a bank transfer from my uk account but i don t see that it has arrived can you check and see if all is ok please,balance_not_updated_after_bank_transfer
+is it possible to do auto top up,automatic_top_up
+i have dm d you the transcript kindly check it,general_complaint
+i just got married and need to change my name on the account,edit_personal_details
+what is the fee to receive money,top_up_by_bank_transfer_charge
+how long does it take for a transfer to arrive,transfer_not_received_by_recipient
+is there anyway to use a cheque to top up,top_up_by_cash_or_cheque
+why was my exchange rate a different amount than usual,card_payment_wrong_exchange_rate
+trunzo has been wearing a pair of raf simons designed adidas ozweegos which he describes as quite geriatric i w,general_complaint
+my order shipped 3 26 but the tracking number still doesn t work help,general_complaint
+there is an extra 1 charge on my app why did you charge me extra,extra_charge_on_statement
+i tried to withdraw cash but got declined,declined_cash_withdrawal
+looking at my account i ve noticed a charge that appears to still be in progress i had attempted to get money out of the machine earlier but the machine seemed to have been broken i never received my money so will you please look into this for me i don t want to be charged for money i never actually received,pending_cash_withdrawal
+my transfer appeared not to work,failed_transfer
+petition for to make clothes in both petite and curve for those of us who are both fat and short,general_complaint
+i did a payment but the app reverted it,reverted_card_payment?
+let me get this straight trump s lawyers are telling him that he can t go in front of the doj in fe,general_complaint
+i don t recognise a cash withdrawal,cash_withdrawal_not_recognised
+yes so was i lol,general_complaint
+how can my boss pay me directly to the card,receiving_money
+i tried to withdraw money but was told i didn t have funds,declined_cash_withdrawal
+what should i do if i can t prove my identity,unable_to_verify_identity
+i haven t received the pin yet,get_physical_card
+i got my card a few days ago but am unable to top up i m thinking about closing my account because of this what is going on,top_up_failed
+i need to cancel a transaction please,cancel_transfer
+i have a card payment that was declined but why,declined_card_payment
+my card payment is pending,pending_card_payment
+where can i find an atm,atm_support
+can you tell me what countries you offer support for,country_support
+the mood the aesthetic the writing,general_complaint
+are cheques accepted for a top up,top_up_by_cash_or_cheque
+my receipt shows an extra charge on my transfer why is this,transfer_fee_charged
+can i use my account although the identity verification has not been accepted yet,why_verify_identity
+one person followed me automatically checked by,general_complaint
+do i have to top up with my credit card before i can transfer,topping_up_by_card
+what are the restrictions of the disposable cards,disposable_card_limits
+why do you require so many details about my identity,why_verify_identity
+where do i go to see the source of my available money,verify_source_of_funds
+can my card be used everywhere,card_acceptance
+the soul directed life kicks off its 6th year today with tara cousineau and the kindness cure,general_complaint
+how do you check the upgrade list using the app,general_complaint
+this direct debit payment may not be right,direct_debit_payment_not_recognised
+photos came out great,general_complaint
+how can i start using my card,activate_my_card
+could i open an account for my children,age_limit
+someone stole my money,direct_debit_payment_not_recognised
+i need to cancel my card there are a few charges from a couple days ago that i didn t make can i get credit for these charges,card_payment_not_recognised
+also getting this zooming out or in clears it but the glitch comes back,general_complaint
+how to get new card,contactless_not_working
+i am missing cash from my bank account according to my app,cash_withdrawal_not_recognised
+how much does it cost to top up by card,top_up_by_card_charge
+i have a problem the atm stole my card,card_swallowed
+i m looking for a machine of yours that will provide me cash from my home country i went on holiday and don t have any cash on me will your machine charge me extra to do this,wrong_exchange_rate_for_cash_withdrawal
+how can my friend pay me,receiving_money
+what does the decline message mean,declined_transfer
+will it automatically top up or do i need to do that manually if there isn t much cash left,automatic_top_up
+i don t see my top up in my wallet,topping_up_by_card
+i ve deposited a check but the cash isn t showing that it s there yet,balance_not_updated_after_cheque_or_cash_deposit
+if i top up by card what options do i have re currency and card type,supported_cards_and_currencies
+i need to get visa and mastercard,visa_or_mastercard
+my cash withdrawal charged me the wrong exchange rate,wrong_exchange_rate_for_cash_withdrawal
+i am sure i have plenty of money to transfer but my transfer is being declined,declined_transfer
+i lost my card and need a new one will it cost me,getting_spare_card
+i cannot get to my app what should i do,lost_or_stolen_phone
+when cancels your flight and immediately books you to an earlier flight,general_complaint
+why was a fee added to my bill when i used my card,card_payment_fee_charged
+my payment is in the app but hasn t gone through yet,pending_card_payment
+do i need to select a preference to receive my salary payments in gbp and if so where,receiving_money
+why can t i find my pin,get_physical_card
+please check and let me know why my transfers are getting declined,declined_transfer
+what do i have to do to get a visa credit card,visa_or_mastercard
+my beneficiary is not allowed why,beneficiary_not_allowed
+what atms can i use my card at,atm_support
+i see a payment on my statement for a place i didn t make a purchase at,card_payment_not_recognised
+i am extremely unhappy with this app and want to get rid of my account,terminate_account
+it won t let me prove my identity,unable_to_verify_identity
+why has my package been out for delivery for 4 days,general_complaint
+when did you start charging to make a withdrawal how much is it now i always thought it was free,cash_withdrawal_charge
+why have i been charged a small fee to use my card,card_payment_fee_charged
+rs 25k the if you can t debug support close your company,general_complaint
+i left my phone at the hotel i was staying at so i can t use the app,lost_or_stolen_phone
+where can i go to get a virtual card,getting_virtual_card
+how do i get a card in the eu,country_support
+i got an unexpected charge on my transfers how can i correct this,transfer_fee_charged
+do all businesses take this card,card_acceptance
+are their certain cash machines where i can change my pin,change_pin
+is my card valid everywhere,card_acceptance
+so i am a new customer and attempted to top up for the very first time today it s already been pending for half an hour and doesn t seem to be working i need to please get this fixed,pending_top_up
+i am not able to do a transfer to an account,beneficiary_not_allowed
+i am unable to transfer money i believe it is not working because it states it was declined,declined_transfer
+do i need to verify my identity each time i wish to use my account,why_verify_identity
+i made a transaction but i made it to an account i didn t mean to make it to,cancel_transfer
+how do i get money from an atm using my card i can t seem to get it to work i used the pin i had but maybe it s wrong what do i need to do to fix this,declined_cash_withdrawal
+trying to order some rain boots i wear a 7 5 in us what size would i be in your boots do they run small or true to size,general_complaint
+why does my statement have these extra charges,extra_charge_on_statement
+is there extra fees for making a withdraw in a different country at a cash machine,wrong_exchange_rate_for_cash_withdrawal
+do you guys accept cash because i deposited some this morning and i can t see it in my account,balance_not_updated_after_cheque_or_cash_deposit
+where are my funds being sourced from,verify_source_of_funds
+my pin isn t here yet,get_physical_card
+ana s profile is playing for what gives,general_complaint
+is there a problem that makes my payments show pending,pending_card_payment
+how much are the fees for adding funds using an international card,top_up_by_card_charge
+i have a duplicate charge,transaction_charged_twice
+how do i tell if my top up was reverted,top_up_reverted
+hey i cant log into the website on my computer but it worked fine on my phone last night what do i do,general_complaint
+please could you give me a refund,request_refund
+my password isn t being accepted and i need to reset it,passcode_forgotten
+how much can i top up,top_up_limits
+how many different cards can i have for my account,getting_spare_card
+how many disposable cards can i make in a day,disposable_card_limits
+what are the fees associated with top up via transfer,top_up_by_bank_transfer_charge
+hi my money has not been credited to my account for which i have sent you cheque few days before i am worried about the money please let me know the status,balance_not_updated_after_cheque_or_cash_deposit
+i m unable to use contactless payments for purchases,contactless_not_working
+how do i cancel a recent transfer,cancel_transfer
+my card arrived but i need to make it work in the app how do i do that,card_linking
+can turn my money into another currency,exchange_via_app
+i need to delete my account please,terminate_account
+if my phone is missing can i block someone from using the app,lost_or_stolen_phone
+i still haven t seen a refund on my account,Refund_not_showing_up
+i need a refund from you because the merchant is refusing can you do that,Refund_not_showing_up
+my card was lost on vacation i don t know where it is can you help me take care of this immediately,lost_or_stolen_card
+what is the procedure for activating this card,activate_my_card
+the card pin is not visible anywhere,get_physical_card
+dm sent,general_complaint
+i just realized i made the wrong transaction yesterday would you please make it correct i need it by tomorrow,cancel_transfer
+how come my top up didn t go through instantly like it usually does,pending_top_up
+i sent money for my rent to my landlord but she is claiming it hasn t arrived in her account can you trace the transfer i made to make sure it arrived so i can provide proof i sent it and that it has been deposited,transfer_not_received_by_recipient
+how do i top up automatically,automatic_top_up
+the money disappeared when i tried to use my card to top up,topping_up_by_card
+please help me there is a transaction in the incorrect account,cancel_transfer
+are you going to charge me to top up my card,top_up_by_card_charge
+is it possible to have more than one disposable card,disposable_card_limits
+one person followed me automatically checked by,general_complaint
+hahaha booo,general_complaint
+why every time i go to easton they never have their juice bar up i m so irritated at y all stop wasting my time,general_complaint
+new year new me,general_complaint
+how did the extra charge on my card come in effect,card_payment_fee_charged
+there is a direct debit charge on my account that is not mine,direct_debit_payment_not_recognised
+can you change my currency to eur,fiat_currency_support
+unsure how to provide my identity,unable_to_verify_identity
+but you had to like that alexa commercial,general_complaint
+have you decreased service between boston and baltimore so few flights available compared to earlier this year,general_complaint
+what do i do if my phone was stolen,lost_or_stolen_phone
+how do i receive a virtual card,getting_virtual_card
+how can i withdraw money,atm_support
+how long am i to wait before the transfer gets to my account,transfer_timing
+more fees this time for withdrawing my own cash why are you robbing me,cash_withdrawal_charge
+there are fraudulent charges that i didn t make on my card can you please put in the safeguards necessary to stop this from happening anymore,compromised_card
+i have a problem and need help with a refund support site kept putting me in a loop with contact us pls advise,general_complaint
+there is a direct debit set up that i didn t create,direct_debit_payment_not_recognised
+who should i contact if my refund doesn t go through,Refund_not_showing_up
+someone took my card without permission,lost_or_stolen_card
+i just gave 5 stars to gloria at for the great service i received,general_complaint
+hey any update on the porzingis authentic road jersey sitch,general_complaint
+why can t i withdraw money,declined_cash_withdrawal
+google pay top up did not work,apple_pay_or_google_pay
+my card didn t go through it doesn t make sense you told me that everything was ok,declined_card_payment
+the xx at in chek lap kok,general_complaint
+yesterday i topped up my card why didn t it complete as it still pending,pending_top_up
+i got my american express in apple pay why is top up not working correctly,apple_pay_or_google_pay
+i am getting server errors when i try to activate a device plz help,general_complaint
+does a discount apply if i exchange currencies frequently,exchange_charge
+they declined my card payment,declined_card_payment
+i do not think the pop up went through yet,pending_top_up
+since i just got married i need to change my name,edit_personal_details
+i was charged a fee for a transfer,transfer_fee_charged
+why am i being charged a fee for using my card if there is some print out of places that charge me can you please send me that,card_payment_fee_charged
+does your app allow currency exchanges between usd and gbp,exchange_via_app
+can i exchange currency for different types,exchange_via_app
+i have an outgoing transfer,pending_transfer
+my phone is missing or stolen,lost_or_stolen_phone
+tell me what the steps for the identity checks are,verify_my_identity
+,general_complaint
+i would like to link my card how do i do it,card_linking
+is there a specific date i can have it delivered,card_delivery_estimate
+i m having problems with id verification,unable_to_verify_identity
+there is a problem with my card somebody has removed money from my account in a town i haven t been to can you please freeze my account immediately,cash_withdrawal_not_recognised
+what do i do for the identity check,verify_my_identity
+what cards and currencies are supported,supported_cards_and_currencies
+trying to settle a debate how often do you clean your microwave,general_complaint
+why isn t my top up showing on my wallet,topping_up_by_card
+can t access showtime site apps etc was 20 minutes into homeland finale ugh,general_complaint
+so i am in the middle of purchasing a flat i need the money for the first mortgage payment and it is not going through i keep receiving an error can you find out what s going on and help me complete this transfer,failed_transfer
+is it possible to give a second card from my account to my daughter,getting_spare_card
+i think my card payment had been return,reverted_card_payment?
+cancelling a transaction,cancel_transfer
+america i mean with eagles vs patriots whoever wins it s america,general_complaint
+i can t do the verification,why_verify_identity
+my transaction to pay for an item was returned to my account,reverted_card_payment?
+thx to your safety features we walked away after person ran a red amp t boned our car in intersection i ll miss my honda pilot,general_complaint
+what currencies can i have,fiat_currency_support
+every year dealing with freezing failing and pain now won t let me print my state filing only efile for 25,general_complaint
+how do i link an existing card,card_linking
+can you tell me what i need to do for the identity check process,verify_my_identity
+do you allow exchanges of eur,fiat_currency_support
+seba seems cool can confirm seba is cool,general_complaint
+thank you very much,general_complaint
+i sent a payment but it isn t showing up in the app,transfer_not_received_by_recipient
+your products really stuck how come the manual doors not match the template wmh32529fz0,general_complaint
+i forgot my password,passcode_forgotten
+hello i checked my transactions and saw i was double charged on my card for a restaurant visit i would like to get my money back,transaction_charged_twice
+which fiat currencies are supported for holding and exchanging,fiat_currency_support
+i noticed my card payment was cancelled can you tell me why,reverted_card_payment?
+what is the fee charged for using my card,card_payment_fee_charged
+i returned an item but don t see it on my account,Refund_not_showing_up
+why was my payment cancelled,reverted_card_payment?
+the exchange rate was not correct for the item i bought,card_payment_wrong_exchange_rate
+what cards and currencies can i use,supported_cards_and_currencies
+can i order a card,order_physical_card
+i would like to create a disposable virtual card how do i go about doing that,get_disposable_virtual_card
+are currency exchanges free,exchange_charge
+what locations can i get money from,atm_support
+after i deposited my cash i still don t see it in my account,balance_not_updated_after_cheque_or_cash_deposit
+hey i thought transfers were free why are you charging me,transfer_fee_charged
+yeah i wasn t expecting them today so was shocked,general_complaint
+my beneficiary is not allowed please may i have answer as to why this is,beneficiary_not_allowed
+what are the steps i need to take to verify my identity,verify_my_identity
+there is an extra 1 charge on my statement why is that,extra_charge_on_statement
+why is the cash not showing in my account for the check i deposited,balance_not_updated_after_cheque_or_cash_deposit
+someone i don t know has used my card without permission,compromised_card
+i shouldn t be charged any fee for transferring,transfer_fee_charged
+will i be charged for adding money using an international card,top_up_by_card_charge
+why did my transfer not work,failed_transfer
+what fiat currencies do you support,fiat_currency_support
+where can i see where my funds came from,verify_source_of_funds
+how long does it take to transfer from china is there a way to transfer it quickly i need it urgently,transfer_timing
+what do i do if the atm took my card,card_swallowed
+when can i expect my card,card_delivery_estimate
+why was my transaction charged an extra fee when paying with my card,card_payment_fee_charged
+why was there an extra charge with the withdrawal of my money,cash_withdrawal_charge
+reached down into the empty bag and none were there no frys spilt out in the mcdonalds bag,general_complaint
+would i get a visa or mastercard,visa_or_mastercard
+what is the exchange rate for eur,exchange_rate
+what should i do since my card is trapped in the atm,card_swallowed
+i have lost my phone,lost_or_stolen_phone
+gotta go with fozzie and bert,general_complaint
+how can i fix my card if the contactless function didn t work this morning,contactless_not_working
+i don t recognize this payment on my app i am sure i didn t spend any money there,card_payment_not_recognised
+i lost my phone can i disable to app,lost_or_stolen_phone
+i paid with my card and was charged extra,card_payment_fee_charged
+is there any way to cancel a recent transfer i did not mean to make it and need to make sure it does not go through,cancel_transfer
+are there directions to get a new passcode if i forgot mine,passcode_forgotten
+i lost my card n need a new one,lost_or_stolen_card
+can you transfer money to your card by bank transfer,transfer_into_account
+hi is there any reason nougat isn t being released in the uk for your excellent p2 phone,general_complaint
+i need to find out what is the limit for top ups,top_up_limits
+i want to choose a different pin,change_pin
+when do i see my recent refund in my statement,Refund_not_showing_up
+my disposable virtual card doesn t seem to work,virtual_card_not_working
+my card is about to expire where do i get a new one,card_about_to_expire
+i have not received a refund,Refund_not_showing_up
+i thought i knew my password but i guess i was wrong what can i do now,passcode_forgotten
+turns out patience is a virtue after all received the links to the videos looking forward to it,general_complaint
+what s the cost for exchanges,exchange_charge
+hello i am unable to exchange the crypto currency through the app i am very keen to buy please let me know the issue interested buying crypto currency but i am unable to purchase it through the application i do want to do the exchange could you please let me know what is the problem,beneficiary_not_allowed
+why can t i see my refund in my statement,Refund_not_showing_up
+why would my top up be cancelled,top_up_reverted
+please mr becerra follow new york attorney general eric schneiderman s lead and sue to block the end of net neutrality rules,general_complaint
+i don t want to use this method to identify myself,why_verify_identity
+can i get a full list of instructions for identity checks,verify_my_identity
+my new card isn t here and it was issued a week ago,card_arrival
+what is the reason for the extra fee on my statement,extra_charge_on_statement
+no not okay one game suspension for bengals george iloka reduced to 36k fine via,general_complaint
+what is the identity verification process,verify_my_identity
+i made a card payment but it didn t work why not,declined_card_payment
+this is a disgusting waste of packaging,general_complaint
+i came home to a surprise yesterday from my boyfriend im back in business,general_complaint
+can i electronically transfer funds into my account from my american express,supported_cards_and_currencies
+roy moore has been in politics for 35 yrs why did the accusations not come out until after he de,general_complaint
+i relocated and need to change my personal details,edit_personal_details
+as far as courtries go which ones are supported,country_support
+i don t recognize a debit payment that was made and would like to find out about the payment,direct_debit_payment_not_recognised
+i don t have my cell phone with me so i cannot access the system to complete the transaction,lost_or_stolen_phone
+how long will a transfer from china take i need to transfer something from there,transfer_timing
+my atm cash out is still pending,pending_cash_withdrawal
+i really hate when people don t follow simple instructions all of this literally could have been avoided,general_complaint
+what is the process for setting up a pin,get_physical_card
+i bought something overseas and the wrong exchange rate is on my statement,card_payment_wrong_exchange_rate
+i sent a transfer to a friend that needs it urgently it has already been 2 hours and still hasn t come through to her how long does it normally take,transfer_not_received_by_recipient
+still not on tsa pre check why,general_complaint
+the recipient doesn t see the money transaction i made,transfer_not_received_by_recipient
+very disappointed in holiday inn express orlando bad experience poor cust serv,general_complaint
+i m not sure where my phone is can someone else use the app,lost_or_stolen_phone
+my car turns itself off while driving i m supposed to hear from resolution team but i ve called 4 times no call back,general_complaint
+i topped up but my money is not showing why is that,top_up_reverted
+good morning ken,general_complaint
+may i transfer a cheque into my account,top_up_by_cash_or_cheque
+how do i get the card linked,card_linking
+why is there are there two of the same transaction,transaction_charged_twice
+i contacted the ftc comcast apologize to the ftc not me i m sick of calling not once in over a year my service has been rt,general_complaint
+i want to know where my money comes from,verify_source_of_funds
+how can i transfer some money into a foreign account,transfer_into_account
+could you tell me the fiat currencies that you work with,fiat_currency_support
+how can i unblock a blocked pin number for my account,pin_blocked
+i haven t received any answer from you what s up,general_complaint
+true shame missed tot what a battle of wits and words it would have been,general_complaint
+i withdraw cash from the atm and was charged a fee,cash_withdrawal_charge
+the contactless i have won t work,contactless_not_working
+what may be the reason that my transfer did not go through,failed_transfer
+where did this extra 1 fee on my statement come from,extra_charge_on_statement
+help me access the card i already got so i can information from it,card_linking
+i m confused as to why my top up did not go through,top_up_failed
+i need help finding the verification code for my top up card,verify_top_up
+why was an extra charge added when i used my card,card_payment_fee_charged
+i do not recognise the card payment,card_payment_not_recognised
+it appears my transfer was declined,declined_transfer
+i canceled my subscription before the 30 days and i am still getting charged monthly,general_complaint
+my card wasn t working in a shop,declined_card_payment
+i want my purchases cancelled,request_refund
+i want to port my number from postpaid,general_complaint
+what credit cards do you carry,visa_or_mastercard
+how long should i wait ti activate my card,activate_my_card
+will my card be a mastercard or a visa,visa_or_mastercard
+good day in reviewing my credit card activity over the last several days i see a repeated charge for a restaurant that i went to the charge was put through twice so i would like one of the charges corrected and the amount that was withdrawn to be reinstated please,transaction_charged_twice
+how long do eu transfers take i bought something online a couple days ago sent the money immediately online but the seller says it is still not there yet,pending_transfer
+do you deliver the pin separately,get_physical_card
+hello i looked at my account and see that a transaction i tried to do is pending but i did not complete that transaction when i was at the atm the machine declined my card can you make sure that transaction does not go through because i definitely did not receive the money,pending_cash_withdrawal
+could electronics support please do or email me the steps to get the app to register my ipad with my dvr chat feature never loads,general_complaint
+switched to a land line today for work the cell service is out in ok today so glad i am a us cellular for my personal,general_complaint
+is there a charge for top ups,top_up_by_card_charge
+7pm and no sign of my next day delivery order 2 days later i need it by tomorrow how can i find out where it is,general_complaint
+i used the atm machine to get money out for holiday shopping and saw the outrageous charges why is that i would not have used the atm if i had known,wrong_exchange_rate_for_cash_withdrawal
+why was a transfer declined,declined_transfer
+what s the problem my card keeps getting declined for top up i need to know what is going on,top_up_failed
+i want to close my account due to poor customer service,terminate_account
+how much more do i have to pay to exchange currencies,exchange_charge
+i need a fast transfer from china how fast will it be,transfer_timing
+kiosks out,general_complaint
+i want to cancel a transaction from this morning,cancel_transfer
+3 maybe in episode ix they,general_complaint
+i just went through a old statement and noticed that a very large payment went through and i did not make it it was from a few months ago can i still dispute the payment,direct_debit_payment_not_recognised
+where is my pin,get_physical_card
+i do not understand what this particular direct debit is,direct_debit_payment_not_recognised
+how do i get a physical card,order_physical_card
+i need to change my name since i got married,edit_personal_details
+the boba shop i was in earlier was playing whatta vibe,general_complaint
+dear when you make me sign in then won t let me go back to article i just clicked on huge,general_complaint
+i haven t seen the cash yet from the cheque i deposited,balance_not_updated_after_cheque_or_cash_deposit
+i checked my statement and saw a charge of one pound where is this charge coming from,extra_charge_on_statement
+i want to know which currencies and cards are supported can you provide a list,supported_cards_and_currencies
+why is my beneficiary being denies,beneficiary_not_allowed
+why was my cash withdrawal declined,declined_cash_withdrawal
+why am i being charged for atm cash withdrawals the only reason i use it is because it s been free now you expect me to pay for them and how much is that going to cost me,cash_withdrawal_charge
+it appears my top up has not gone through,pending_top_up
+the money i transferred didnt arrive,transfer_not_received_by_recipient
+what happened still waiting you people are morden days robbers,general_complaint
+hello i changed my mind and really need a refund on something i bought recently can you please cancel the transaction and get me my money back please it s urgent,request_refund
+a card has been sent to me how do i track it,card_arrival
+if my card is about to expire how long would it take to receive a new one and how much would that cost me,card_about_to_expire
+where can i change my personal information after i move,edit_personal_details
+i need to order a new card can you please direct me to the virtual cards,getting_virtual_card
+i can not get the app to know it is me,unable_to_verify_identity
+how long will an urgent transfer from china take,transfer_timing
+i sent money about 5 days ago and the recipient has not received the money yet,transfer_not_received_by_recipient
+so much time has gone by the pending status shouldn t still be there shouldn t it,pending_cash_withdrawal
+if you gone be a player make sure you know who to play cause when you play good people you play yourself,general_complaint
+i just got my new card how can i activate it,activate_my_card
+i wanted to transfer money to another account but now i don t have to so i d like to cancel said transfer how can i do that,cancel_transfer
+do you know how to change my card pin,change_pin
+what currency is supported for exchanges and holding,fiat_currency_support
+i think someone stole money from my card,cash_withdrawal_not_recognised
+i have double checked all of my recipient details but for some reason all of my transfers keep getting declined i have no clue as to why,declined_transfer
+explain the virtual card,getting_virtual_card
+what is the maximum number of transactions that i can put on a disposable card,disposable_card_limits
+how do i reactivate my card,card_linking
+i put money on my card and i dont see it on the balance,pending_top_up
+how do i replace a card that s going to expire,card_about_to_expire
+tell me why my virtual disposable card won t work,virtual_card_not_working
+i tempted to get some money out of the machine earlier and it did not work looking now the transaction actually shows to still be in progress i would certainly appreciate someone look into this and let me know what s going on i definitely do not want to be charged for money i never received,pending_cash_withdrawal
+how do i deal with a stolen card,lost_or_stolen_card
+my card was not in the mail again can you advise,card_delivery_estimate
+the transfer to my beneficiary has not gone through,beneficiary_not_allowed
+i m getting engine smells in the cabin of my vehicle made by their new model bought the car from not the dealership not not is doing enough to fix this issue they added a seal which is not fixing the problem pic twitter com fovur42dgd,general_complaint
+hi i don t think your exchange rate is right i need you to check the official interbank exchange please,card_payment_wrong_exchange_rate
+my cash balance less than what i thought,wrong_amount_of_cash_received
+mmmmmmm real soon,general_complaint
+i found a transfer fee is that correct,transfer_fee_charged
+what is the cost for physical cards,order_physical_card
+what s your secret to poaching eggs mine never look that good,general_complaint
+i m still waiting on a payment,pending_card_payment
+i tried to take out cash but the amount isn t right so what do i do,wrong_amount_of_cash_received
+i had a card payment that was declined why,declined_card_payment
+there was an extra charge when i made a transfer,transfer_fee_charged
+how do i track the card you sent to me,card_arrival
+tell me about the limit for top ups,top_up_limits
+why hasn t the transaction i did to my friend arrive yet,transfer_not_received_by_recipient
+change my pin,change_pin
+how often am i able to top up,top_up_limits
+why did i get charged one pound seemingly randomly,extra_charge_on_statement
+i tried to top up why didn t it work,top_up_failed
+his dream is to represent brazil at the world cup cap tie him nowwww lol,general_complaint
+how can i move money from my account at a different bank to the account i have at this bank,transfer_into_account
+can i open a bank account for my newborn baby,age_limit
+how would you rate luke s coaching thus far,general_complaint
+why did i have to pay more when i do it with my card,card_payment_fee_charged
+there is the same transaction showing more than once,transaction_charged_twice
+there is a payment on my card that i do not recognize,card_payment_not_recognised
+can you send me a mastercard instead of a visa,visa_or_mastercard
+my top up was cancelled and i am writing to ask if i need to complete the 3d secure authentication section before i submit it,top_up_reverted
+how many days does it take for a transfer to go through,transfer_timing
+why was a payment i made reverted,reverted_card_payment?
+what kind of fiat currency can i used for holding and exchange,fiat_currency_support
+just saw it thank you,general_complaint
+i never tweet but holy crap life is hard language is just how we talk about it is freaking de,general_complaint
+where can i go to modify my detail,edit_personal_details
+when will the transfer go through,pending_transfer
+where do you guys acquire your exchange rate,exchange_rate
+can google pay be used to make a top up,apple_pay_or_google_pay
+why is the transfer showing pending,pending_transfer
+what are the rules for transferring to a beneficiary,beneficiary_not_allowed
+my card payment says pending and it hasn t changed,pending_card_payment
+i took out money and didn t get all of it,wrong_amount_of_cash_received
+i found my card can i link it back into the app,card_linking
+my card info was stolen what do i do,compromised_card
+why was i charged for getting cash,cash_withdrawal_charge
+took 6 week progress pics for myself last week impressed with my results and now i ve lost 4lbs since then with,general_complaint
+where do i find the auto top up option,automatic_top_up
+i need help finding a christmas gift for my dad suggestions please,general_complaint
+how can i dispute a debit transaction,direct_debit_payment_not_recognised
+i have a mother question my car fairly new and breaks making a noise rear one and as well smoke smell comes out,general_complaint
+don t know why they bother to offer that then,general_complaint
+what are the fees for using transfer to top off my account,top_up_by_bank_transfer_charge
+new phone who dis,general_complaint
+how many times can i use a virtual card,disposable_card_limits
+so i just put my top up into the card and it hasn t changed,pending_top_up
+the app doesn t show the card i received,card_linking
+i keep getting this error 8083201c when i try to sync my game data can you please help,general_complaint
+why did you charge me more for my purchase it was a foreign currency and you didn t offer market rate,card_payment_wrong_exchange_rate
+do you ship cards to where i live,order_physical_card
+still can t claim my business what s going on add contact number 01786396236,general_complaint
+seems like my top up has been cancelled,top_up_reverted
+3 3 is book another service time highly unimpressed with build quality unimpressed with cust service experience,general_complaint
+i tried to transfer money and it did not work,failed_transfer
+how do you come up with your exchange rate,exchange_rate
+i m so happy i got to see dua she was incredible goodnight,general_complaint
+are you able to unblock my pin,pin_blocked
+need my details changed,edit_personal_details
+expired beer that we bought today whuuuut,general_complaint
+why did the atm cancel my transaction,declined_cash_withdrawal
+on the septa app,general_complaint
+tell me if there are any top up limits,top_up_limits
+my money is all gone what ways are okay to add money to my account,transfer_into_account
+the card that i have isn t working this is the physical card,card_not_working
+please help we love jetblue just got back from la nyc flight 424 and my wife left her purse on the plane what do we do,general_complaint
+where do i find my code to verify my top up card,verify_top_up
+after looking at the app i noticed a couple of payments i know i did not make is it possible someone has accessed my card what is actually going on,card_payment_not_recognised
+i understand the why but the fact is i can have a book shipped overnight cheaper than picking it up in your store,general_complaint
+i ve attempted to do a very standard transfer and have tried 5 times at this point can you tell me what the issue is is the system down,failed_transfer
+idk you re young or not athletic yourself to even think resting is better on a young mans bo,general_complaint
+why do you offer a subscription 1 wk then when i click to order it s 1 50 wk,general_complaint
+where can i view it i cannot see it,general_complaint
+i don t see the verification code for my card transfer,verify_top_up
+tell me more about getting a virtual disposable card,get_disposable_virtual_card
+i am not satisfied with your service close my account,terminate_account
+at what age can i open an account,age_limit
+my bill is still messed up,general_complaint
+will i be able to use my card anywhere,card_acceptance
+going to need a new card what are the fees and time it takes,card_about_to_expire
+the cash i got at the atm is still in my account,pending_cash_withdrawal
+how much does it cost for a physical card,order_physical_card
+what atms will allow me to change my pin,change_pin
+is there a point at which some compensation is given we are now more than 3 hours delayed,general_complaint
+how do i make more than one disposable card in a day,disposable_card_limits
+why is 3177 to nashville delayed tonight,general_complaint
+i see money go out that i didn t withdraw,cash_withdrawal_not_recognised
+the app says that i got cash in an atm and i didn t,cash_withdrawal_not_recognised
+i ve forgotten my passcode can i reset,passcode_forgotten
+my top up is pending still,pending_top_up
+what types of fiduciary currencies are supported for tenure and exchange,fiat_currency_support
+how old does my kids need to be to open an account,age_limit
+i already have one of your cards how do i link them,card_linking
+i see that my account was switched to aispl and all my websites are down,general_complaint
+i don t recognize this withdrawal on my statement,cash_withdrawal_not_recognised
+what are the ways for others to transfer me money,receiving_money
+can i make many disposable cards per day,disposable_card_limits
+when are you launching new clock faces for indian market,general_complaint
+how long will my transfer be pending,pending_transfer
+your service is bad close my account,terminate_account
+how do i order a new card the current one is about to expire,card_about_to_expire
+something is wrong with my top up and i can t see it how do i find it,topping_up_by_card
+can i check my recent refund in my statement,Refund_not_showing_up
+is there any nearby atm s,atm_support
+can i reactivate my card i reported it lost and found it this morning in my jacket,card_linking
+do you have any restrictions to my top up,top_up_limits
+why is my beneficiary not working,beneficiary_not_allowed
+what is the identity check for,why_verify_identity
+why can t the recepient of my money transaction see it,transfer_not_received_by_recipient
+why did using an atm cause me to have an extra fee charged,cash_withdrawal_charge
+when will the money from my bank transfer be available,balance_not_updated_after_bank_transfer
+i d like to use my american express to place money into my account,supported_cards_and_currencies
+how much you charge for exhcange,exchange_charge
+can u help me to delete my new account i should login but i make mistake to create new account with the same data,general_complaint
+i can t upload my identification,unable_to_verify_identity
+sadly not by ba had to buy new emirates tickets eventually left lhr 36 hrs late via dubai still no luggage payout please,general_complaint
+most crvs have air conditioning issues isn t it prudent to recall losing trust in,general_complaint
+is there a way to reset my passcode,passcode_forgotten
+monday night football tonight streaming tv why patriots will thump dolphins,general_complaint
+do i need to verify my top up,verify_top_up
+i want this amount reversed out of my account,request_refund
+are swift transfers accepted,top_up_by_bank_transfer_charge
+is there a way i can get my card expedited,card_arrival
+what value can i get for my currency,exchange_rate
+what do i have to do to change my pin,change_pin
+yes,general_complaint
+why is there a charge when i took out money,cash_withdrawal_charge
+my card is about to expire how much does it cost to order a new one and how fast will i get it,card_about_to_expire
+my card is expiring soon how do i order a new card,card_about_to_expire
+does the card you sent have a tracking number,card_arrival
+how do i transfer something faster than normal,transfer_timing
+the atm wouldn t allow me to withdraw money,declined_cash_withdrawal
+i think my transfer was declined but why,declined_transfer
+i need another card,getting_spare_card
+can i get an update on my replacement card,card_arrival
+i didn t withdraw the amount of cash that is showing up in the app,cash_withdrawal_not_recognised
+why is it taking so long for my money to appear in my account i have been waiting a week,balance_not_updated_after_cheque_or_cash_deposit
+there are a couple payments with my card in the app i see that i didn t create what is happening maybe someone gained access to my account,card_payment_not_recognised
+why was i not able to complete a transfer,failed_transfer
+are there any charges for receiving money,top_up_by_bank_transfer_charge
+i m not in the uk is it possible for me to still get a card,country_support
+where do you export the cards to,order_physical_card
+i tried to do a transfer to an account but it didn t work,beneficiary_not_allowed
+it was crazy fast fastest overall pace i ve seen since i started running this race,general_complaint
+are us credit cards accepted,supported_cards_and_currencies
+i can t get any money from my account,declined_cash_withdrawal
+that is amazing,general_complaint
+i ve tried using my contactless in several locations today and it s not working anywhere it seemed fine before how do i get it to work again,contactless_not_working
+when is hd netflix coming to the tab 4 10 plus it s currently throttled at 540p despite being widevine l1 capable,general_complaint
+for some reason i am unable to preform a transfer to a beneficiary,beneficiary_not_allowed
+will the new 2018 honda will be available in a combo with 6 spd manual sunroof and leather seats current accord is not,general_complaint
+i believe i was charged for making a withdrawal after i went grocery shopping are you guys charging for this now,cash_withdrawal_charge
+what kind of fiat currencies are supported for holding and exchange,fiat_currency_support
+a cheque deposit hasn t posted to my account when will my balance update,balance_not_updated_after_cheque_or_cash_deposit
+hi are the phones down again in wells no calls 3 days emergency only,general_complaint
+morning flight landed an hour ago but all of us that gate checked are still waiting for our bags,general_complaint
+how the fuck you gonna have providence friars sweatshirts but not sjsu,general_complaint
+my top up is not showing up in my wallet,topping_up_by_card
+your website no longer remembers that i m a subscriber safari 5 1 1 os 10 6 8,general_complaint
+i didn t get the correct amount of money from the atm machine,wrong_amount_of_cash_received
+to the rescue thanks for the quick response,general_complaint
+i want a new pin please,change_pin
+why would my payment have been returned to my account,reverted_card_payment?
+does the marinated herring still have bones it,general_complaint
+i ordered something online a while ago and i haven t gotten it i would like a refund,request_refund
+how can i activate my new card i didn t recieve any information with it about how to do so,activate_my_card
+is it fair to ask for a new case manager if i feel mine is inadequate,general_complaint
+can i quickly send a transfer from china how long will it take,transfer_timing
+how can i prove who i am,verify_my_identity
+for the disposable cards what are the restrictions,disposable_card_limits
+how much do i have to pay for exchange of currency,exchange_charge
+can i withdraw money in my hometown currency while on holiday without any additional fees,wrong_exchange_rate_for_cash_withdrawal
+my account was charged twice for one purchase,transaction_charged_twice
+i transferred money to another country several days ago but my transaction is still pending i have checked that the accounts are keyed in correctly what sees to be the problem,pending_transfer
+i requested money from the atm and it didn t give me as much as i requested,wrong_amount_of_cash_received
+what am i missing to verify my id,unable_to_verify_identity
+why bother confirming you can be at my home at a specific time to meet the electrician amp still not be here 2 hrs later,general_complaint
+what happened to my top up it was all done and now it s gone are you having problems with your system,top_up_reverted
+i can t find my refund please help,Refund_not_showing_up
+can you tell me how do i get a card,order_physical_card
+does it cost anything to buy something from another country like is there going to be hidden transfer fees or currency conversion fees,transfer_fee_charged
+are there any documents needed for the identity check,verify_my_identity
+whoops,general_complaint
+is apple pay eligible for top up,apple_pay_or_google_pay
+my transfer didn t go through,failed_transfer
+how long will it take to get my refund,Refund_not_showing_up
+what are the reasons a beneficiary would be denied,beneficiary_not_allowed
+will i be charged a fee for exchanging foreign currencies,exchange_charge
+how do i ask for a physical card,order_physical_card
+i need to make several disposable cards per day,disposable_card_limits
+my card stopped working after multiple transactions why,card_not_working
+can i top up using cash,top_up_by_cash_or_cheque
+why isn t my transfer going through i get a message saying it s not possible i ve had no issues in the past,beneficiary_not_allowed
+can i use the system google pay for top ups,apple_pay_or_google_pay
+how do i request more physical cards,getting_spare_card
+i did a payment but it was reverted by the app,reverted_card_payment?
+how many cards can i have for one account,getting_spare_card
+how is the top up card verified,verify_top_up
+win a free pair of win like 82 air jordan 11 s in your size from enter here gt,general_complaint
+are there any specific atms that this card can be used at,atm_support
+what caused my transfer to fail,failed_transfer
+where can i top my card for free,top_up_by_card_charge
+what s the transfer time from europe,transfer_timing
+what should i do once my card expires,card_about_to_expire
+i made a transfer a couple hours ago but my balance has not been updated why is this shouldnt this be instant,balance_not_updated_after_bank_transfer
+please tell me how to verify my top up card,verify_top_up
+someone stole my card,lost_or_stolen_card
+is the ps camera required and if so why is it not sold with base system,general_complaint
+how do i view the card i received in the app,card_linking
+my statement shows a 1 purchase pending i do not remember making this purchase please let me know what this is about,extra_charge_on_statement
+can i change or hold different currency,fiat_currency_support
+it appears my card expires next month can i order a new one,card_about_to_expire
+please tell me how i can get a virtual card,getting_virtual_card
+can you tell me how long it takes for a new card to come,card_delivery_estimate
+when are your flights for december 2018 released looking to book my honeymoon transfers,general_complaint
+i need to make an immediate cancellation related to a transfer this was a mistake please assist quickly so this does not actually go through,cancel_transfer
+my transaction went through but i was charged a fee why,transfer_fee_charged
+is there a limit to the number of disposable cards per day,disposable_card_limits
+i thought transfers were free why was i charged,transfer_fee_charged
+i already hate finals and i haven t even taken one yet,general_complaint
+oppose graham durbin flake bill does not end chain or visa lottery doesn t mandate e verify 1 giant amnesty,general_complaint
+how low does the balance have to be before the system updates,automatic_top_up
+how can i check if my card is working,card_not_working
+the transaction for the cash i pulled out of the atm earlier is pending in the app but how if i already have the cash,pending_cash_withdrawal
+how can i add a new card,card_linking
+hi i m a university student studying abroad and i noticed that when i was trying to cross reference my budget for this month that there were extra fees i was not expecting why is that i ve had this account for years and i haven t had any trouble so far it might not even be on your all s end since i m still new to international travel and finance but i wanted to double check in case a mistake was made,transfer_fee_charged
+i can t believe they didn t sign kaepernic,general_complaint
+nervous depressed laughing,general_complaint
+my actual card isn t functioning,card_not_working
+i did a transfer to my account but it hasn t shown up,balance_not_updated_after_bank_transfer
+ok thank you and how can i get refunded for the amount i ve overpaid,general_complaint
+please cancel my most recent transfer it was a mistake this is an emergency it needs to be canceled before it goes through,cancel_transfer
+why are my transfers being declined it normally works but now it s declining my card i ve tried it a few times but it s still not working,declined_transfer
+how come i can t put money in my top up account,top_up_reverted
+hrm ok i guess the question is can i run 2 x 1920x1200 projectors from a quadro 2000 then,general_complaint
+how do i transfer funds directly from my credit card,topping_up_by_card
+hey is it good customer service to inconvenience houston flood victims like does car really look usable,general_complaint
+if the killers and panic are playing at plymouth just know i m probably there 8 10 times probably me,general_complaint
+i wanted to top up my account and it doesn t look like it worked,top_up_failed
+why do i have duplicate transactions for one purchase,transaction_charged_twice
+can you tell me where to find top up by cash deposit,top_up_by_cash_or_cheque
+i m hoping you can answer my question about a pending transfer that i ve had for a while now i know that all of the account details are correct so why is it taking so long to go through,pending_transfer
+can i set up to my account to automatically top up,automatic_top_up
+what are the fees for top ups,top_up_by_bank_transfer_charge
+what locations can i top up with cash,top_up_by_cash_or_cheque
+my account transfer was not cleared,beneficiary_not_allowed
+are both visa and mastercard offered,visa_or_mastercard
+what is the price for an additional card,getting_spare_card
+i want to start using my card,activate_my_card
+i can t withdraw money,declined_cash_withdrawal
+when will moto z2 play gets oreo update,general_complaint
+my top up did not complete,pending_top_up
+am i able to open an account for my children,age_limit
+why am i being charged a hidden fee,card_payment_fee_charged
+saban is getting out coached and outsmarted,general_complaint
+what are the advantages for most of us of the repeal net neutrality who wins if this repeal succeeds,general_complaint
+please let me know how to change my pin,change_pin
+can you help me transfer money into my friend s bank account i tried to do it but it keeps rejecting me i need to get the money in there asap i have enough and all the account info is correct,failed_transfer
+aaah thank you also lmao i look like i came straight from heaven but behind the camera i am the actual devil ahahah,general_complaint
+you shorted me money when i tried to make a withdrawal,wrong_amount_of_cash_received
+why on earth do you need so much personal id info from me,why_verify_identity
+worst customer service f my life and that s saying something since i thought allegiant held that spot,general_complaint
+why is there a charge for my transfer,transfer_fee_charged
+unknowingly to me the payment sent to seller has been redeposied back in my account i do not know why it would take out the payment and then put it back in my account can you resolve this as soon as possible,reverted_card_payment?
+there was a purchase on my card recently to a name that i don t recognize at all what can be done about this i need my money back,card_payment_not_recognised
+how does the exchange rate work on this app,exchange_rate
+if i have a physical card can i link it,card_linking
+what kind of atm s can i use,atm_support
+i moved and need to change my address,edit_personal_details
+do you have a list of countries you operate in,country_support
+how do i sync my egdge book marks with edge on my phone,general_complaint
+our finally got her,general_complaint
+what makes it more attractive than gw raids less punishing more people,general_complaint
+for a week now i have tried to use my card and it is still not working,card_not_working
+my messages to you are getting flagged and not being delivered what s up,general_complaint
+what should i do if i think there are unauthorized transactions,compromised_card
+are there discounts for frequent currency exchanges,exchange_charge
+so is a 220 000 ms read latency on redshift normal or should we be worried,general_complaint
+verifying top up cards necessary,verify_top_up
+i can t do any business with this virtual card,virtual_card_not_working
+my exchange went wrong i swapped russian ruble for uk pounds and was charged too much,card_payment_wrong_exchange_rate
+how much would an extra card cost,getting_spare_card
+my credit card for was not approved for a top up transaction what happened,top_up_failed
+my card is broke what do i do,card_not_working
+phone is gone what should i do,lost_or_stolen_phone
+hey how long should a transmission last on a honda civic hybrid mine needs to be replaced after 5 yrs not a happy customer,general_complaint
+how long does it take for a transfer to be in my account,transfer_timing
+there is a payment that is not mine in the app,card_payment_not_recognised
+is it possible to also get a disposable virtual card,get_disposable_virtual_card
+to cash withdrawals charge me,cash_withdrawal_charge
+i want to cancel my card i think someone else is using it,compromised_card
+why are there fees for card usage,card_payment_fee_charged
+why has my money been returned back to my card,reverted_card_payment?
+what do i do if my disposable virtual card doesn t work,virtual_card_not_working
+considering the idiot won t learn a thing burns his second chance in the flames of hell,general_complaint
+more specifically he said that lower income people are less entitled to tax breaks becaus,general_complaint
+in car electronics support team told us to contact att said they can t help to activate they sort out problems after activating,general_complaint
+i transfered my balance a while back why doesn t my account reflect this,balance_not_updated_after_bank_transfer
+how do i track the card you sent me,card_arrival
+i don t understand why my card payment is pending it has been pending for too long why is this and when might it go through,pending_card_payment
+is there anything i need to do since my phone was stolen,lost_or_stolen_phone
+do you accept cheques for top ups,top_up_by_cash_or_cheque
+hi i just bought a lenovo ideapad 320 15ikbn pc i wanted to know which optical drive corresponds to this pc and the max of ram that i can install no player engraver on this pc thank you for your help,general_complaint
+i want to get my salary deposited as pesos,receiving_money
+where did the money i deposit go,balance_not_updated_after_cheque_or_cash_deposit
+i love this site,general_complaint
+any updates please,general_complaint
+i know i haven t been on in a while but with work it s been hard to find time to write i m looking to get back in,general_complaint
+currently cringing,general_complaint
+the top up card is verified how,verify_top_up
+hi i would like to file a claim for an inquiry i am a frequent customer of the company in question and have never had any issue with my purchases payments or otherwise however the price deducted for an item i purchased a couple of weeks ago has been returned to my checking account was there an issue with my payment the item has already been delivered to me,reverted_card_payment?
+please explain this picture during an,general_complaint
+i entered the wrong pin too many times and now i think it s blocked what do i do,pin_blocked
+i was getting cash and can t get my card back,card_swallowed
+how can i get my pin unblocked,pin_blocked
+how do i find out how or where this transaction on my account came from,card_payment_not_recognised
+new emotes for the day come check em out oh yeah and i m a year older today weeeeeee,general_complaint
+where did my top up go i can t find it in my wallet,topping_up_by_card
+can i make several disposable cardsper day,disposable_card_limits
+good knowledge from hiroyoshi in our forum reverting a land to g with land transfer gets you 70,general_complaint
+my foreign currency exchange has been applied incorrectly,card_payment_wrong_exchange_rate
+in how is t amp,general_complaint
+i ve been trying to make a transfer and it hasn t gone through now i am receiving an error message what is the problem,beneficiary_not_allowed
+which cards do you guys support i want to top up using my credit card,supported_cards_and_currencies
+is it possible to dispute a debit payment from a couple of months ago,direct_debit_payment_not_recognised
+hello i d like to inform you of an issue i m currently experiencing the goods i have ordered from your website have still not arrived yet it has been over 3 weeks i would like to be issued a refund swiftly and be redirected to more competent people thank you for your assistance,request_refund
+mcadoo mcdaniels mcdonalds hmmm see a pattern they re all clowns,general_complaint
+why do you need verification for my identity,why_verify_identity
+if i see a payment in the app that i don t recognize what should i do,card_payment_not_recognised
+my sweet kiddo painted the picture i took a couple of years ago,general_complaint
+why has my transfer failed,failed_transfer
+i transferred some money recently and saw a fee on my account what s that for,transfer_fee_charged
+help i lost my card,lost_or_stolen_card
+hello i changed my mind and want a refund on one of things i bought recently can you please cancel the transaction and get me my money back please it s urgent,request_refund
+why have i been charged an extra pound,extra_charge_on_statement
+my app statement shows i took out cash from an atm but i did not what can i do,cash_withdrawal_not_recognised
+i found an unauthorized card payment,card_payment_not_recognised
+i just gave 5 stars to elizabeth at for the great service i received,general_complaint
+can i take this saran wrapped pepperoni on the plane,general_complaint
+i have the flu and i feel like i m dying but all i can think about are chicken tenders and french fries,general_complaint
+best part about money at christmas i can pay my bills after spending all my money on my baby and husband,general_complaint
+why is my card not working anymore,card_not_working
+it s been a week since i ordered my card and it s not here please help,card_arrival
+the atm will not let me get cash why,declined_cash_withdrawal
+how can i receive verification for the source of my funds,verify_source_of_funds
+how can i cancel a transfer i made,cancel_transfer
+can you tell me the status of my new card,lost_or_stolen_card
+how do i update the pin on my account,change_pin
+why am i being charged twice fro a restaurant,transaction_charged_twice
+can you explain why there is a payment showing twice,transaction_charged_twice
+where is the top up card verification code,verify_top_up
+i d like to open an account for my kids can i do that,age_limit
+second sunday the app stopped working because of a gateway error during the climax of an episode you need more servers,general_complaint
+my top up failed,top_up_failed
+i topped up my account but i don t think it went through,pending_top_up
+maximum how many days get the courier,card_arrival
+why is there some cash that i did not deposit in my account,cash_withdrawal_not_recognised
+can you change the rate for the item i bought in a different currency as it is wrong,card_payment_wrong_exchange_rate
+why am i missing my refund,Refund_not_showing_up
+i ordered something and now i have buyer s remorse since what i ordered hasn t come yet can you just cancel the payment since i already know i want a refund for it,request_refund
+how can i change the currency i m exchanging from aud to gbp,exchange_via_app
+does this app allow currencies to be exchanged,exchange_via_app
+do you accept credit cards from the us,supported_cards_and_currencies
+my absolute fucking favorite lmao,general_complaint
+i believe i got a wrong exchange rate when i got cash,wrong_exchange_rate_for_cash_withdrawal
+i got some cash out of the atm over the holiday and it seems that i ve been grossly overcharged i wouldn t have done that if i knew of these outrageous charges,wrong_exchange_rate_for_cash_withdrawal
+do you also have this extra fee on your statement,extra_charge_on_statement
+i deposited a check yesterday and im not seeing it posted yet in my account why is that can you look into it,balance_not_updated_after_cheque_or_cash_deposit
+hello i recently made a purchase and i m needing to cancel my order and process a refund as soon as possible,request_refund
+why do you keep declining my payment i tried several times already with this card and it is just not working,declined_card_payment
+can someone please tell me how much i can top up,top_up_limits
+my cash transaction isn t showing on my receipt,transfer_not_received_by_recipient
+what should i do if my phone is lost or stolen,lost_or_stolen_phone
+i keep trying to use my card to buy some things and you keep declining it why i ve tried multiple times to make it go through but it won t,declined_card_payment
+is it possible to top up by card,topping_up_by_card
+i accidentally exceeded my pin tries please advise,pin_blocked
+4 people followed me and 3 people unfollowed me automatically checked by,general_complaint
+the atm didn t give me enough money,wrong_amount_of_cash_received
+i sent you a cheque a few days ago and i noticed that nothing has happened yet can you tell me the status of my cheque please,balance_not_updated_after_cheque_or_cash_deposit
+visa or mastercard,visa_or_mastercard
+i am having trouble transferring money to a beneficiery,beneficiary_not_allowed
+i am getting increasingly frustrated this is my 3rd fitbit and each devise stops showing the watch when i turn my wrist about 2 weeks after i begin wearing it currently i own the iconic,general_complaint
+remember when you did this me,general_complaint
+i got double charged for a payment so how do i fix that,transaction_charged_twice
+i want to top up my account what payment methods are supported,supported_cards_and_currencies
+what do i need to bring for identification,unable_to_verify_identity
+can i purchase with cash or cheque,top_up_by_cash_or_cheque
+why is identity verification required,why_verify_identity
+the cash i deposited using the atm is still pending,pending_cash_withdrawal
+just signed up for the first time on your website and am not being allowed to use my welcome code,general_complaint
+i was double charged for a transaction,transaction_charged_twice
+how to track the card you sent,card_arrival
+happy belated glad it was a good one,general_complaint
+when will my account receive the money,transfer_timing
+my cash withdrawal shows pending why,pending_cash_withdrawal
+i must change my address,edit_personal_details
+i used this account a lot during the last month to manage my payments for my new place abroad seems that suddenly fees have increased shouldn t you instead reward your frequent customers instead of putting an additional fee suddenly,transfer_fee_charged
+what is my card s pin,get_physical_card
+if you are waiting for verification it can take 10 minutes to 60 minutes to get results you will hear from us once we have it please make sure your images are clear and photos of documents are readable you have to be at least 18 years old and live withing the economic area of europe or in switzerland in order to open an account,unable_to_verify_identity
+do you charge for physical cards,order_physical_card
+i need to know when a payment will actually go through i completed a payment using my card but it is just showing as pending at this point and it has been a while ago,pending_card_payment
+i have a question about fee for cash withdraw,cash_withdrawal_charge
+which currencies do you accept for adding money,supported_cards_and_currencies
+my app shows some cash i didn t get,cash_withdrawal_not_recognised
+hey i double checked that i have the correct account details already they re right for sure transfer is still pending since forever it s not that difficult to transfer money to another country in 2018 is it,pending_transfer
+how can i get a visa and mastercard,visa_or_mastercard
+why do i have to give you my drivers license,why_verify_identity
+is there a way to order a virtual card on the website,getting_virtual_card
+what is the verification code on a top up,verify_top_up
+yes get that win,general_complaint
+what information do i need to gather in order to activate my card,activate_my_card
+i would like to exchange currency what types are there,exchange_via_app
+get an item refund,request_refund
+what do i do if my smart phone was stolen,lost_or_stolen_phone
+why do some people need constant attention and reassurance chill you re too high maintenance,general_complaint
+for how long will my transfer be pending,pending_transfer
+do you charge if i use a european bank card for top up,top_up_by_card_charge
+so i ve been using my account frequently to manage payments for my vacation house in a different country and now i m getting hit with ridiculously high fees what s with that ought not i be rewarded as a frequent user,transfer_fee_charged
+how can i lookup the source for my available money,verify_source_of_funds
+does it cost to top up my card,top_up_by_card_charge
+this exchange rate you use is awful please tell me this is a mistake and not the official interbank exchange rate,card_payment_wrong_exchange_rate
+i am a student and am trying to sort out my tax code as i am being taxed how do i go about fixing this,general_complaint
+my card payment has been on pending forever what is the problem it should have gone through at some time by now,pending_card_payment
+why does my payment appear as pending,pending_card_payment
+my balance is not right it has not been updated for the cash or cheque deposit,balance_not_updated_after_cheque_or_cash_deposit
+why has my money disappeared i topped up earlier and seen it was there and had went through what seems to be the problem,top_up_reverted
+what are the top up charges for all us cards,top_up_by_card_charge
+are there any limits to were my card is accepted,card_acceptance
+i want to use my card how would i activate it,activate_my_card
+do i have to talk to someone to close an account or can i in the app,terminate_account
+what is the reason my transfer was declined,declined_transfer
+why can t i see a transfer to my account,balance_not_updated_after_bank_transfer
+how can i find out why my transfer didn t go through,failed_transfer
+what happens when i am charged twice,transaction_charged_twice
+why can t i top up,top_up_failed
+my package is taking too long to arrive and i don t want it anymore can i get a refund,request_refund
+what are exchange rates,exchange_rate
+how do you top up on the apple watch,apple_pay_or_google_pay
+i m not certain but someone may be using my card,compromised_card
+i heard you have virtual cards how do i get one,getting_virtual_card
+i would like to re activate my card it was previously reported lost but i found it this morning,card_linking
+what do i owe for a new card,order_physical_card
+should i eat u or papa johns,general_complaint
+my salary is received in the form of gbp do i need to do anything specific to configure this,receiving_money
+where do you have locations at,country_support
+my account was charged a debit payment i don t recognize,direct_debit_payment_not_recognised
+how do i receive my physical card,order_physical_card
+hi i m writing a piece for msn him and wondered who i could talk in the pr dept about this season s clothes trends etc help,general_complaint
+where do i look for cash top up,top_up_by_cash_or_cheque
+i asked for 100 cash but only got 20,wrong_amount_of_cash_received
+item 39763961 which store can i get this wallet,general_complaint
+is there a limit to how much i can top up,top_up_limits
+transfers may show up as pending for up to one day while they are processed by one of our payment processors then they will depart for the beneficiary accounts please also double check that you have entered the correct account details sepa transfers can take up to two business days and swift transfers can take up to five business days,pending_transfer
+please tell me about swift transfers at this bank,top_up_by_bank_transfer_charge
+it seems i ve suddenly been charged for my recent atm cash withdrawal what s up with that i though withdrawals are free you never charged me so far,cash_withdrawal_charge
+has the check i deposited cleared to i can get the cash,balance_not_updated_after_cheque_or_cash_deposit
+is there a limit for top ups,top_up_limits
+hey guys i love this product featured on today but don t see a price help a girl out,general_complaint
+i like to mastercard rather than visa,visa_or_mastercard
+i have received my statement but i do not see my refund why is that,Refund_not_showing_up
+do i have to top up in euros if i use a card or can i use a different currency,supported_cards_and_currencies
+do you support all countries,country_support
+clarify what,general_complaint
+awful service from opened door and was going to sit down as the driver decided to drive off because i was going to clapham,general_complaint
+where should i look for my pin number at,get_physical_card
+hi i am getting following error code whilst trying set as home console,general_complaint
+i am being charged a pound out of nowhere what is this,extra_charge_on_statement
+hello i made a payment with my card and it s not working it s been a while and still says its pending can you tell when this will go through,pending_card_payment
+great service today but michelle in in the at the armani stand,general_complaint
+help me activate my card,activate_my_card
+what do i need to do to receive my payroll in the account,receiving_money
+how long does it take for money to transfer as my balance hasn t been updated,balance_not_updated_after_bank_transfer
+could you explain your rules for atm fees,cash_withdrawal_charge
+is there tracking info available,card_arrival
+what is the number of transactions i get with a disposable card,disposable_card_limits
+why was i charged for making a withdrawal after i went grocery shopping i withdrew some money from my account and now there is another charge,cash_withdrawal_charge
+can i deposit a check,top_up_by_cash_or_cheque
+how do i use a card to top up,topping_up_by_card
+how long after a failed topup will funds refurn to account,pending_top_up
+while abroad i got cash and a wrong exchange rate was applied,wrong_exchange_rate_for_cash_withdrawal
+how long is a delivery to the us,card_delivery_estimate
+please build a market in richmond va that serves the fan downtown scott s addition and northside we crave a decent grocery,general_complaint
+i had a duplicate card and bought something and it showed up twice i canceled my card how do i get my money back,transaction_charged_twice
+can i transfer from swift,top_up_by_bank_transfer_charge
+hi i have been overcharged for my payment last saturday i guess exchange rate was wrong,card_payment_wrong_exchange_rate
+the number is incomplete,general_complaint
+there is an extra 1 charge on my app why did it charge me extra,extra_charge_on_statement
+i transferred some cash and it didn t arrive,transfer_not_received_by_recipient
+looking forward to it see you tomorrow,general_complaint
+i am unsuccessfully trying to make a transfer can you help,failed_transfer
+can i use any currency to add money,supported_cards_and_currencies
+have still not fixed the broadband despite at least 2 assurances in 48 hours pic twitter com yrhgv9nw2k,general_complaint
+i m in the running to win a free luxury coil on coil pillow top from,general_complaint
+there is a withdrawal in my account i didn t make,cash_withdrawal_not_recognised
+why would my transfer be declined,declined_transfer
+i get a decline message when doing a transfer,declined_transfer
+can i exchange usd and gbp from the app,exchange_via_app
+fred mcgriff should be a hall of famer,general_complaint
+do you limit my top ups,top_up_limits
+what do i do to activate my new card,activate_my_card
+dead ass though i just saved money by switching to,general_complaint
+my card has been declined by two separate atm and i m worried something is wrong with my account would you please see if my account is okay,declined_cash_withdrawal
+i desperately need to top up my card so why is it being declined can you solve this for me i need to use my card immediately,top_up_failed
+i see cash in my app but i did not get it,cash_withdrawal_not_recognised
+i haven t received my pin yet do i need to get it from you,get_physical_card
+i have lost my credit card in the atm,card_swallowed
+tell me why i m excited for new fragrance,general_complaint
+i did not receive the correct amount of cash,wrong_amount_of_cash_received
+i wrote a check to the account yesterday to add to my balance but i don t see the amount of the check reflected anywhere is it being held up for some reason i should have seen a new balance by now,balance_not_updated_after_cheque_or_cash_deposit
+currently i can t get my card to work,card_not_working
+can i be topped up once i hit a certain balance,automatic_top_up
+what is this charge on my account,direct_debit_payment_not_recognised
+i m here looking for any of my tweet peeps,general_complaint
+i love all my fans,general_complaint
+there were a couple of payments that i have noticed on my account with my card that i didn t make is it possible that somebody else has my card information,card_payment_not_recognised
+i did a transfer but it is still pending,pending_transfer
+i am still waiting for a transaction to be completed,transfer_not_received_by_recipient
+why have i not gotten my new card,card_arrival
+i transferred money and it hasn t come yet,transfer_not_received_by_recipient
+i am having problems transferring to a beneficiary,beneficiary_not_allowed
+hi i need to return some jeans i got my son but i ve lost the invoice have email though as done online can you help,general_complaint
+feel better soon,general_complaint
+why cant i transfer to my account,beneficiary_not_allowed
+why is my balance still the same after a cheque deposit,balance_not_updated_after_cheque_or_cash_deposit
+delayed no it was cancelled,general_complaint
+how do i top up my money automatically,automatic_top_up
+when do i get charged a fee for using the card,card_payment_fee_charged
+places i can use the card,card_acceptance
+i did a top up but i m not seeing it in my wallet yet,topping_up_by_card
+i m in china and really need a new card,card_about_to_expire
+the conversion value for my card payments is incorrect,card_payment_wrong_exchange_rate
+my new card hasn t came in,card_arrival
+i liked a video smart comedian destroy feminism with facts,general_complaint
+i would like to exchange currencies on the app how do i do this,exchange_via_app
+hi there do any of your small storage boxes fit the flysta shelving unit thanks,general_complaint
+can i change my pin at an atm,change_pin
+presh,general_complaint
+how do i unblock my card using the app,card_not_working
+hi yesterdays i was unable to do online shopping as it was getting declined today i am facing the same issue please help me in this respect,declined_transfer
+i want one of those virtual cards,getting_virtual_card
+can you freeze my account i just saw there are transactions on my account that i don t recognize how can i fix this,card_payment_not_recognised
+why is there a direct debit to my account i didn t do that,direct_debit_payment_not_recognised
+thrilled to have you on the pitch again in slc lobbying now for one of the new red and cobalt monarch,general_complaint
+blog,general_complaint
+my account shows a direct debit charge that i have never seen before,direct_debit_payment_not_recognised
+i accidentally made a payment from the wrong account yesterday it s my rent payment and it s very large so the account i paid from won t be able to cover the amount it s really important that the payment be made from the right account,cancel_transfer
+are there limitations to what currency i can hold,fiat_currency_support
+what happens if i use my account and my identity verification hasn t finished,why_verify_identity
+i tried to withdraw money from an atm and i was declined on front of my friends why did this happen,declined_cash_withdrawal
+can you check the exchange rate on a cash transaction i did overseas,wrong_exchange_rate_for_cash_withdrawal
+please help me as my topup amount has been reverted i did it correctly i think there is some defect in system,top_up_reverted
+there has been a payment in the app that has not be done by me,card_payment_not_recognised
+where can i find my top up verification code,verify_top_up
+who accepts the card,card_acceptance
+causes of top up cancellation,top_up_reverted
+how long do transfers from a uk bank account usually take for you i just made a transfer and i m not seeing anything wondering if it worked,balance_not_updated_after_bank_transfer
+why did the disposable virtual card which i used to pay a gym subscription get denied,virtual_card_not_working
+need service center info in pune thanks,general_complaint
+i have a problem with a transfer it didn t work can you tell me why,declined_transfer
+is there a reason i need to verify top up,verify_top_up
+can i have my card delivered on tuesday,card_delivery_estimate
+turkey and quinoa make for the perfect meatloaf bites don t believe us give this recipe a try and,general_complaint
+can i change my in at all atm s,change_pin
+whats the transfer process,transfer_into_account
+when will money be available in my account,transfer_timing
+what countries do you operate in,country_support
+power outage joy and is claiming gt 5 customers affected but my entire condo assoc 23 units 80 people is without power,general_complaint
+where is my new card,card_arrival
+i need to know about exchange rates,exchange_rate
+why is identity verification mandatory,why_verify_identity
+please help me understand why you nearly double my rate then 3 weeks later when we have an accident tell me i might not be covered,general_complaint
+i d like to make some changes to my personal information,edit_personal_details
+can i choose a date for delivery,card_delivery_estimate
+how do you determine your exchange rates,exchange_rate
+alright thanks,general_complaint
+if i transfer money from my bank to top up my account will i be charged,top_up_by_bank_transfer_charge
+how can i hold and exchange fiat currencies,fiat_currency_support
+what do i do if the atm swallowed my card,card_swallowed
+why did my top up not work,top_up_failed
+why did it decline my payment,declined_card_payment
+i would like a refund on one of your products that has been sold to me,request_refund
+it looks like i was charged twice for a single transaction,transaction_charged_twice
+true it s overdue lol,general_complaint
+can my daughter open an account,age_limit
+i haven t received my card yet how long does it normally take,card_delivery_estimate
+i don t have my passcode to access the app,passcode_forgotten
+explain to me how to verify the top up card,verify_top_up
+why is my top up still pending,pending_top_up
+oh no i lost my card help,lost_or_stolen_card
+i ve got a weird problem i purchased something a week or maybe it was two weeks ago and the funds have come back into my account can you explain this,reverted_card_payment?
+yeah i was concerned when he darted touching the body looking for a wallet smh he mad,general_complaint
+you too and thank you again,general_complaint
+how do i retrieve my card from the machine,card_swallowed
+do i have to be 18 to open an account,age_limit
+if i have a credit card with you how i get set up to link to it,card_linking
+why isn t my card working,card_not_working
+my credit card cancelled a payment for a purchase,reverted_card_payment?
+what is the cause that the transfer shows as pending,pending_transfer
+how long til my cash out goes through,pending_cash_withdrawal
+what s your sale returns policy was bought item at oxford store want to swap or get vouchers for it instead,general_complaint
+how long is my europe transfer wait,transfer_timing
+i made a payment that is not yet complete,pending_card_payment
+needed gas been delayed for half an hour please fix it,pending_top_up
+delete my account please now,terminate_account
+where do i find the auto top up,automatic_top_up
+who did you fly with i m just curious cuz we came to florida yesterday through aa and it was one of,general_complaint
+is it possible for a friend to personally send me a payment,receiving_money
+what should i do after i ve moved and need to update my personal details,edit_personal_details
+tell me what atms use this card,atm_support
+what does it mean when a payment is pending,pending_card_payment
+i m glad it s not just me your mom is sending these to,general_complaint
+i m getting an error when trying to make a payment i want to purchase a flat but my mortgage payment needs to go through can you help me,failed_transfer
+where can i have a virtual card,getting_virtual_card
+what atms will accept this type of card,atm_support
+when will my transfer be available in my account,balance_not_updated_after_bank_transfer
+whether we re just chilling or going out somewhere my heart always lies with you i love you bree,general_complaint
+still waiting on my refund,Refund_not_showing_up
+will i get a visa card or mastercard,visa_or_mastercard
+why do i have a strange payment on my statement,card_payment_not_recognised
+my transaction was just declined when i was using my disposable virtual card what can i do,virtual_card_not_working
+help me unblock my pin,pin_blocked
+i liked it when jennings misspoke and referred to our coach as mark mccarthy,general_complaint
+how can i top up with a cheque,top_up_by_cash_or_cheque
+again with their crappy customer service make u wait on hold for hours then ask for u to call back later what ughhhhh,general_complaint
+my job requires me to do a lot of exchanging currency and i was wondering about any possible discounts or lower prices,exchange_charge
+the atm didn t give me the full requested amount,wrong_amount_of_cash_received
+i going to be traveling can i set up auto top up if i run low on money,automatic_top_up
+i just registered for tour de life ride 2018 using race roster join me,general_complaint
+i m really stuck i don t know why but my card payment has not gone through,declined_card_payment
+what fee will be charged for exchanges,exchange_charge
+i thought cash withdrawals were free why have i been charged a fee also how much is this fee,cash_withdrawal_charge
+how do i see the source of my money,verify_source_of_funds
+my card shows a cash withdrawal i don t recognize,cash_withdrawal_not_recognised
+i need my funds verified,verify_source_of_funds
+bought these less than 4 weeks ago and they are falling apart,general_complaint
+what do i have to do to get my pin unblocked,pin_blocked
+how do i reset my pin,pin_blocked
+how do i top up with cash,top_up_by_cash_or_cheque
+how do i perform identity checks,verify_my_identity
+can you activate my card pls,activate_my_card
+nothing given to a third party is private there s been a number of court cases that use fitbit data,general_complaint
+my new card keeps getting declined i was very excited to use it for the first time today why is this doing this,declined_card_payment
+hi can you please respond to my query attached thanks,general_complaint
+so you bump the prices up how s that fair,general_complaint
+why is this beneficiary being rejected,beneficiary_not_allowed
+a random charge got added to my card,card_payment_not_recognised
+i was overcharged a pound,extra_charge_on_statement
+i think someone copied the numbers on my card and is using them,compromised_card
+i have been overcharged i just changed over russian ruble to uk pounds and it was too much it seems something was wrong with my exchange,card_payment_wrong_exchange_rate
+so are you ready to play maxine shaw on the living single reboot,general_complaint
+i live in the us and i would like to get a card how do i go about getting one,country_support
+which documents do i need for this identity check,verify_my_identity
+total microwave fail all the buttons are peeling up just bought it a few months ago,general_complaint
+i want to transfer money using my credit card,topping_up_by_card
+when u send packages u should really put them in a box so you don t ruin a kids x mas morning 25 days early,general_complaint
+what is the exchange rate when i get cash,wrong_exchange_rate_for_cash_withdrawal
+the exchange rate for my withdrawal was wrong,wrong_exchange_rate_for_cash_withdrawal
+nininnni,general_complaint
+my password doesn t work,passcode_forgotten
+why was a fee changed for my transfer,transfer_fee_charged
+how can i get multiple disposble cards,disposable_card_limits
+there was an extra fee on my account when i got cash,cash_withdrawal_charge
+will you guys charge me for topping up by transfer,top_up_by_bank_transfer_charge
+hi how come channel 3 is missing,general_complaint
+does it cost anyting to get my own card,order_physical_card
+when will i be able to see my refund,Refund_not_showing_up
+on the card that is coming what s the tracking info,card_arrival
+why has my card been charged an extra pound,extra_charge_on_statement
+the app rejected my top up,top_up_failed
