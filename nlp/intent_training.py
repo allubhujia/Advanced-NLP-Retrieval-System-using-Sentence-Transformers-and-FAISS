@@ -136,19 +136,19 @@ def train(train_dataset: Dataset, val_dataset: Dataset, num_labels : int,) -> No
     tokenized_val.set_format("torch")
     print("  Tokenization complete.\n")
 
-    print(f"Loading model: {MODEL_CHECKPOINT} (nums_labels={num_labels})")
+    print(f"Loading model: {MODEL_CHECKPOINT} (num_labels={num_labels})")
     model = DistilBertForSequenceClassification.from_pretrained(
         MODEL_CHECKPOINT,
-        nums_labels = nums_labels,
+        num_labels = num_labels,
     )
     model.to(device)
     total_params = sum(p.numel() for p in model.parameters())
     print(f" Total parameters : {total_params: ,}\n")
 
-    os.makedirs(MODEL_SAVE_DIR, exits_ok=True)
+    os.makedirs(MODEL_SAVE_DIR, exist_ok=True)
     training_args = TrainingArguments(
         output_dir = MODEL_SAVE_DIR,
-        num_train_epochhs = NUM_EPOCHS,
+        num_train_epochs = NUM_EPOCHS,
         per_device_train_batch_size = BATCH_SIZE,
         per_device_eval_batch_size = BATCH_SIZE,
         learning_rate = LEARNING_RATE,
@@ -200,7 +200,7 @@ def main() -> None:
 
     #2. Encode labels
     train_df, val_df, le = preprocess(train_df, val_df)
-    nums_labels = len(le.classes_)
+    num_labels = len(le.classes_)
 
     #3. Convert to HuggingFace Dataset
     train_dataset = to_hf_dataset(train_df)
@@ -208,7 +208,7 @@ def main() -> None:
 
     #4. Train(Tokenization, Model init, Evaluation, Saving)
 
-    train(train_dataset, val_dataset, nums_labels)
+    train(train_dataset, val_dataset, num_labels)
     print("Training pipeline complete")
     print(f"Artifacts saved in: {MODEL_SAVE_DIR}")
     print("="*60+"\n")

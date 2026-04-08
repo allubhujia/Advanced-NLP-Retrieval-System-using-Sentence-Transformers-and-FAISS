@@ -3,8 +3,8 @@
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
-from models.embedding_model import EmbeddingModel
-from models.sentiment_model import SentimentModel
+from models.embedding_model.embedding_model import EmbeddingModel
+from models.sentiment_model.sentiment_model import SentimentModel 
 from models.llm import LLMClient, PromptBuilder, LLMProviders
 
 
