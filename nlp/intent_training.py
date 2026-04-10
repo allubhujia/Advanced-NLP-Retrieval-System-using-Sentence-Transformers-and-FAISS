@@ -112,14 +112,6 @@ def compute_metrics(eval_pred) -> dict:
     }
 
 def train(train_dataset: Dataset, val_dataset: Dataset, num_labels : int,) -> None:
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    print(f"Using device: {device.upper()}")
-    if device == "cpu":
-        if torch.cuda.is_available():
-            print(f" GPU : {torch.cuda.get_device_name(0)}")
-        else:
-            print(" GPU : No NVIDIA GPU detected, using CPU.")
-        print(f" VRAM: {torch.cuda.get_device_properties(0).total_memory / 1e9:.1f} GB\n")
     print(f"Loading tokenizer : {MODEL_CHECKPOINT}")
     tokenizer = DistilBertTokenizerFast.from_pretrained(MODEL_CHECKPOINT)
 
@@ -141,7 +133,6 @@ def train(train_dataset: Dataset, val_dataset: Dataset, num_labels : int,) -> No
         MODEL_CHECKPOINT,
         num_labels = num_labels,
     )
-    model.to(device)
     total_params = sum(p.numel() for p in model.parameters())
     print(f" Total parameters : {total_params: ,}\n")
 
@@ -154,7 +145,7 @@ def train(train_dataset: Dataset, val_dataset: Dataset, num_labels : int,) -> No
         learning_rate = LEARNING_RATE,
         weight_decay = WEIGHT_DECAY,
         warmup_ratio = WARMUP_RATIO,
-        evaluation_strategy = "epoch",
+        eval_strategy = "epoch",
         save_strategy = "epoch",
         load_best_model_at_end = True,
         metric_for_best_model = "f1_weighted",
