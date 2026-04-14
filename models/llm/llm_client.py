@@ -61,19 +61,19 @@ class LLMClient:
     """
     def __init__(self, config: LLMConfig):
         self.config = config
-        if self.config.provider == 'openai':
-            openai.api_key = self.config.api_key
-            openai.base_url = self.config.base_url
+        self.client = openai.OpenAI(
+            api_key=self.config.api_key,
+            base_url=self.config.base_url
+        )
 
     def generate(self, prompt: str) -> str:
         if self.config.provider in ['openai', 'ollama']:
-            response = openai.chat.completions.create(
+            response = self.client.chat.completions.create(
                 model=self.config.model,
                 messages=[{"role": "system", "content": self.config.system_prompt}, {"role": "user", "content": prompt}],
                 temperature=self.config.temperature,
                 max_tokens=self.config.max_tokens,
                 top_p=self.config.top_p,
-                extra_headers={} if self.config.provider == 'openai' else {"Content-Type": "application/json"}
             )
             return response.choices[0].message.content.strip()
         return ""
