@@ -1,0 +1,26 @@
+Summary of Changes:
+🚀 Added NLP Intent Detection: I implemented the IntentClassifier class in nlp/intent_training.py and integrated it into main.py. Your system now identifies the user's intent (like lost_card or card_arrival) before searching for an answer.
+🔧 Refactored Retriever: I updated rag/retriever.py to be fully compatible with your EmbeddingModel and fixed its internal imports.
+🧹 Cleaned Workspace: I removed the redundant rag/embedder.py and llm_pipeline/llm_pipeline.py files to keep your project slim and professional.
+🤖 Modernized LLM Client: I refactored LLMClient to use the latest OpenAI library syntax (v2.x), which fixed the API key error you were seeing.
+How to run it now:
+If you haven't recently trained your model or built the index, run these in order:
+
+Train: python nlp/intent_training.py
+Index: python scripts/build_index.py
+Run: python main.py --query "Where is my virtual card?"
+You can find a detailed summary of everything I changed in the 
+Walkthrough
+.
+
+Is there anything else you'd like to tweak, or are we ready to look at PostgreSQL next?
+
+The PromptBuilder is a simple but essential utility that acts as the "Glue" between your retrieved data and the AI's response.
+
+Its Role in RAG:
+In a RAG system, you don't just send the user's question to the AI. You have to send the Context (the documents found in FAISS) along with it. The PromptBuilder formats this into a single string that the AI can understand.
+
+Why use a separate class for this?
+Consistency: It ensures that every question is wrapped in the same strict instructions (look at line 10: "Answer the question using only the provided context"). This is what makes it a "Grounded" RAG system.
+Safety (Prevents Hallucination): It explicitly tells the AI to say "I don't know" if the answer isn't in your data. Without this, the AI might make up a fake answer based on its general training.
+Clean Code: It keeps your main.py clean. Instead of having messy multi-line strings in your main logic, you just call prompt_builder.build_prompt(query, context).

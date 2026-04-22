@@ -181,6 +181,47 @@ def train(train_dataset: Dataset, val_dataset: Dataset, num_labels : int,) -> No
     tokenizer.save_pretrained(MODEL_SAVE_DIR)
     print("Saved successfully\n")
 
+class IntentClassifier:
+    """
+    Handles inference for the trained intent classification model.
+    Loads DistilBERT weights and the label encoder for prediction.
+    """
+    def __init__(self, model_path: str = MODEL_SAVE_DIR, encoder_path: str = LABEL_ENCODER_PATH):
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        
+        if not os.path.exists(model_path) or not os.path.exists(encoder_path):
+            raise FileNotFoundError(
+                f"Intent model artifacts not found at {model_path}. "
+                "Please run 'python nlp/intent_training.py' to train the model first."
+            )
+
+        print(f"Loading Intent Classifier from {model_path} on {self.device}...")
+        self.tokenizer = DistilBertTokenizerFast.from_pretrained(model_path)
+        self.model = DistilBertForSequenceClassification.from_pretrained(model_path)
+        self.model.to(self.device)
+        self.model.eval()
+
+        with open(encoder_path, "rb") as f:
+            self.le = pickle.load(f)
+
+    def predict(self, text: str) -> str:
+        """Predict the intent label for a single input text."""
+        inputs = self.tokenizer(
+            text,
+            return_tensors="pt",
+            truncation=True,
+            max_length=MAX_SEQ_LENGTH,
+            padding="max_length"
+        ).to(self.device)
+
+        with torch.no_grad():
+            outputs = self.model(**inputs)
+            probs = torch.nn.functional.softmax(outputs.logits, dim=-1)
+            pred_idx = torch.argmax(probs, dim=-1).item()
+        
+        return self.le.inverse_transform([pred_idx])[0]
+
+
 def main() -> None:
     print("\n"+"="*60)
     print("  Intent Classification Training — DistilBERT")

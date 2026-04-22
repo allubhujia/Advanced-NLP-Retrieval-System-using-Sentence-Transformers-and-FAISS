@@ -1,10 +1,6 @@
-from __future__ import annotations
-
-import logging
 from typing import Any, Dict, List, Optional
 
-from embedder import Embedder
-from vector_store import VectorStore
+from .vector_store import VectorStore
 
 logger = logging.getLogger(__name__)
 
@@ -34,7 +30,7 @@ class RetrievalResult:
 class Retriever:
     def __init__(
         self,
-        embedder: Embedder,
+        embedder: Any,
         vector_store: VectorStore,
         top_k: int = 5,
         score_threshold: Optional[float] = None,
@@ -64,7 +60,7 @@ class Retriever:
         logger.debug("Retrieving top-%d documents for query: '%s'.", k, query[:80])
 
         try:
-            query_vec = self._embedder.embed_query(query)
+            query_vec = self._embedder.encode(query)
             raw_results = self._store.search(query_vec, top_k=k)
         except Exception as exc:
             raise RuntimeError(f"Retrieval failed: {exc}") from exc
@@ -124,9 +120,9 @@ class Retriever:
         return results
 
     def _validate_dim_alignment(self) -> None:
-        if self._embedder.embedding_dim != self._store.dim:
+        if self._embedder.embedding_dim() != self._store.dim:
             raise ValueError(
-                f"Dimension mismatch: Embedder produces {self._embedder.embedding_dim}-d "
+                f"Dimension mismatch: Embedder produces {self._embedder.embedding_dim()}-d "
                 f"vectors but VectorStore expects {self._store.dim}-d."
             )
 
