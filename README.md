@@ -159,4 +159,3 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 
 ---
 
-> Built with ❤️ using Python, Sentence Transformers, and FAISS.
