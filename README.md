@@ -10,7 +10,7 @@ A production-ready RAG pipeline built in Python that combines dense vector embed
 - Modular architecture — embedder, vector store, and retriever are fully decoupled
 - Top-k document retrieval with formatted context output
 - Persistent index — save and load FAISS indexes from disk
-- Ready for LLM integration (OpenAI, HuggingFace, LangChain, etc.)
+- Ready for LLM integration (OpenAI, HuggingFace, LangChain, LangGraph etc.)
 
 ---
 
